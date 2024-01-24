@@ -1,0 +1,1593 @@
+
+I've shared an item with you:
+
+Untitled document
+https://docs.google.com/document/d/1lYkUQhEoSaW8igZQTRoJNbA8IT6dtXclJDlwCBVC_H0/edit?usp=sharing&ts=65b0d3ee
+
+It's not an attachment -- it's stored online. To open this item, just click  
+the link above.
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>unstop</title>
+        <meta name="author" content="" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <style type="text/css">
+            @import  url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&');
+
+            body {
+                width: auto;
+                margin: 0;
+                padding: 0;
+                font-size: 14px;
+                -webkit-text-size-adjust: 100% !important;
+                -ms-text-size-adjust: 100% !important;
+                -webkit-font-smoothing: antialiased;
+                background-color: #FFFFFF;
+                font-family: 'Inter', sans-serif;
+            }
+
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6,
+            td,
+            a,
+            span {
+                font-family: 'Inter', sans-serif !important;
+            }
+
+            h2,
+            p {
+                margin: 0;
+                padding: 0;
+                display: block;
+                font-style: normal;
+                letter-spacing: normal;
+            }
+
+            h2 {
+                font-size: 16px;
+                font-weight: bold;
+                line-height: 125%;
+            }
+
+            p {
+                margin: 10px 0;
+                font-size: 14px;
+                line-height: 21px;
+            }
+
+            img {
+                border: 0 !important;
+                outline: none !important;
+                display: block;
+                width: 100%;
+                height: auto;
+                margin: 0px;
+                padding: 0px;
+            }
+
+            a {
+                text-decoration: none;
+                color: rgba(0, 0, 0, .75);
+            }
+
+            .ii a[href] {
+                color: rgba(0, 0, 0, .75) !important;
+            }
+
+            .read_more {
+                color: #ffffff;
+                font-weight: 400;
+                background-color: #0073e6;
+                border-radius: 50px;
+                padding: 8px 15px;
+                display: inline-block;
+                font-size: 14px;
+                line-height: normal;
+                text-decoration: none;
+            }
+
+            ul {
+                margin: 0;
+                padding: 0;
+            }
+
+            li {
+                margin: 0;
+                padding: 0;
+                line-height: 150%;
+                font-size: 15px;
+            }
+
+            table {
+                border-collapse: collapse;
+                mso-table-lspace: 0px;
+                mso-table-rspace: 0px;
+                float: none !important;
+            }
+
+            .bg-box {
+                border: 1px solid #e8e8e8;
+            }
+
+            .pdng_box {
+                padding: 15px;
+            }
+
+            .cptn h2,
+            .cptn h3,
+            .items h2,
+            .items h3,
+            .full_item h2,
+            .full_item h3,
+            .cptn p,
+            .register_now,
+            .btn_hover,
+            .participate_now,
+            .h2_hover,
+            .p_hover,
+            .tags a {
+                transition: .3s;
+            }
+
+            .cptn h2:hover,
+            .cptn h3:hover,
+            .items h2:hover,
+            .items h3:hover,
+            .full_item h2:hover,
+            .full_item h3:hover,
+            .cptn p:hover,
+            .h2_hover:hover,
+            .p_hover:hover {
+                color: #0073E6 !important;
+            }
+
+            .register_now:hover {
+                background: #434343 !important;
+            }
+
+            .participate_now:hover,
+            .tags a:hover,
+            .btn_hover:hover {
+                background: #1C4980 !important;
+                color: #ffffff !important;
+            }
+            .ji_box:nth-child(even) .ji_email {
+                background-color: #e8e8e8 !important;
+            }
+
+            @media  only screen and (max-width: 600px) {
+                .full_width {
+                    padding-left: 0 !important;
+                    padding-right: 0 !important;
+                    width: 100%;
+                    display: block !important;
+                    clear: both;
+                }
+
+                .bites_pdng_top {
+                    padding-top: 10px !important;
+                }
+
+                .bites_pdng_top h2 {
+                    margin-bottom: 10px !important;
+                }
+
+                .pdng_none {
+                    padding-left: 0 !important;
+                    padding-right: 0 !important;
+                }
+
+                .full_img {
+                    min-height: auto !important;
+                }
+
+                .full-width-sect h2 {
+                    font-size: 16px !important;
+                }
+
+                .small_img {
+                    max-height: 100% !important;
+                }
+
+                .new_box .cptn_box {
+                    width: calc(100% - 110px) !important;
+                    padding: 0 10px !important;
+                }
+                .new_box h2 {
+                    font-size: 13px !important;
+                }
+                .new_box span {
+                    font-size: 12px !important;
+                    line-height: 16px !important;
+                    margin-top: 3px !important;
+                }
+                .new_box p {
+                    font-size: 12px !important;
+                    margin: 5px 0 0 0 !important;
+                    line-height: 14px;
+                }
+                .new_box .last_box {
+                    width: 30px !important;
+                }
+                .new_box .last_box a {
+                    width: 30px;
+                    height: 30px;
+                    background: #1C4980 !important;
+                    border-radius: 50px !important;
+                    padding: 0 !important;
+                    line-height: 26px !important;
+                }
+                .new_box .last_box span {
+                    display: none !important;
+                }
+                .new_box .last_box img {
+                    display: inline-block !important;
+                    width: auto;
+                    height: 14px;
+                    vertical-align: middle;
+                }
+
+                .m_mobile1 {
+                    text-align: center !important;
+                    margin-top: 10px !important;
+                }
+
+                .m_mobile2 {
+                    text-align: center !important;
+                    margin-bottom: 10px !important;
+                }
+
+                .hdng {
+                    padding-bottom: 15px !important;
+                }
+
+                .hdng a {
+                    font-size: 18px !important;
+                    padding: 10px !important;
+                }
+
+                .pdng {
+                    padding: 0 15px !important;
+                }
+
+                .pdng_lr {
+                    padding-left: 15px !important;
+                    padding-right: 15px !important;
+                }
+
+                .item td {
+                    width: 100% !important;
+                    display: block;
+                    padding: 0 !important;
+                    text-align: left !important;
+                }
+
+                .item .cptn {
+                    padding-top: 12px !important;
+                }
+
+                .even_item .cptn {
+                    padding-top: 0 !important;
+                    padding-bottom: 12px !important;
+                }
+
+                .art_item p {
+                    font-size: 14px !important;
+                    line-height: 21px !important;
+                    display: -webkit-box;
+                    -webkit-line-clamp: 3;
+                    overflow: hidden;
+                    -webkit-box-orient: vertical;
+                }
+
+                .art_img {
+                    width: 120px !important;
+                }
+
+                .user_name {
+                    font-size: 18px !important;
+                }
+
+                .user_dtls {
+                    font-size: 15px !important;
+                    line-height: 20px !important;
+                }
+
+                .bdr_top {
+                    padding-bottom: 15px !important;
+                    padding-top: 15px !important;
+                }
+
+                .items > td {
+                    width: 100% !important;
+                    padding: 0 0 30px !important;
+                    display: block !important;
+                }
+                .items > td:last-child {
+                    padding: 0 !important;
+                }
+
+                .full_item > td {
+                    width: 100% !important;
+                    padding: 0 !important;
+                    display: block !important;
+                }
+
+                .full_item h2 {
+                    margin-top: 15px !important;
+                }
+
+                .participate_now {
+                    margin-top: 15px !important;
+                    font-size: 13px !important;
+                }
+
+                .h40 {
+                    height: 30px !important;
+                }
+                .h10 {
+                    height: 5px !important;
+                }
+
+                .hdng_icon {
+                    padding-left: 15px !important;
+                }
+
+                .footer {
+                    padding: 20px 0 !important;
+                }
+                .tags {
+                    padding-bottom: 10px !important;
+                }
+                .tags a {
+                    font-size: 10px !important;
+                    padding: 7px 10px !important;
+                    margin: 3px 1px !important;
+                    border-radius: 5px !important;
+                }
+                .updated {
+                    padding-bottom: 0 !important;
+                }
+                .updated tr {
+                    display: block;
+                }
+                .updated td {
+                    display: block;
+                    width: 100% !important;
+                    text-align: center !important;
+                    padding-bottom: 10px;
+                }
+                .updated td span {
+                    padding-bottom: 6px !important;
+                    width: 100% !important;
+                }
+                .bg_box {
+                    border: 1px solid #e7e7e7;
+                    border-radius: 8px;
+                }
+                .bg_box > table{
+                    border: 0 !important;
+                }
+                .full_banner {
+                    padding-left: 5px !important;
+                    padding-right: 5px !important;
+                }
+
+                .hdr_option2 {
+                    padding: 15px !important;
+                }
+
+                .hdr_option2 td {
+                    width: 100% !important;
+                    text-align: center !important;
+                    display: block;
+                }
+
+                .hdr_option2 .logo {
+                    margin-bottom: 15px;
+                    padding-top: 0 !important;
+                }
+
+                .hdr_option2 .logo img {
+                    margin: auto;
+                }
+                .mb_none a {
+                    margin: 3px 1px !important;
+                    padding: 6px 10px !important;
+                    font-size: 10px !important;
+                }
+
+
+                .full_width_item td {
+                    width: 100% !important;
+                    display: block;
+                    padding: 0 !important;
+                    text-align: left !important;
+                }
+
+                .full_width_item .cptn {
+                    padding-top: 15px !important;
+                }
+
+                .full_width_item h2 {
+                    font-size: 15px !important;
+                }
+                .full_width_item p {
+                    font-size: 13px !important;
+                    line-height: 18px !important;
+                }
+
+                .d2c_icon {
+                    padding: 12px !important;
+                }
+                .job_type {
+                    display: none !important;
+                }
+
+                .ji_hedr {
+                    padding: 20px !important;
+                }
+                .ji_hedr div {
+                    font-size: 20px !important;
+                }
+                .ji_email {
+                    padding: 15px !important;
+                }
+                .ji_email .logo_box {
+                    width: 70px !important;
+                }
+                .ji_email .logo_box a {
+                    width: 70px !important;
+                }
+                .explore_jobs {
+                    background-size: 70px !important;
+                }
+                .explore_jobs a {
+                    font-size: 15px !important;
+                }
+
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="bg_box" style="width: 100%; background-color: #FFFFFF;">
+            <table style="border-collapse: collapse; border: 0; width: 100%; max-width: 700px; margin: 0 auto; border: 1px solid #e7e7e7;" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td style="background-color: #ffffff; border: 0; padding: 0; border-radius: 8px;" valign="top">
+                            <table style="min-width: 100%; border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td valign="top">
+                                            <!-- HEADER Option 1 -->
+                                                                                            <table style="max-width: 100%; min-width: 100%; border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0" align="left">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="d2c_icon" style="text-align: center; padding: 15px;">
+                                                                <a style="display: block;" href="https://unstop.com/">
+                                                                <img
+                                                                    style="width: 90px; display: inline-block; vertical-align: middle;"
+                                                                    src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/branding-guidelines/png/unstop-logo-500x198.png"
+                                                                    alt="Tap here to view the opportunities!"
+                                                                />
+                                                                <span style="display: inline-block; border-left: 1px solid rgba(39,73,125,.5); padding-left: 10px; margin-left: 8px; color: #1C4980; font-size: 12px; text-align: left; vertical-align: middle;">
+                                                                    Formerly
+                                                                    <strong style="display: block; font-size: 13px; font-weight: 500; line-height: normal;">
+                                                                    Dare2Compete
+                                                                    </strong>
+                                                                </span>
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            
+                                            <!-- HEADER Option 2 -->
+                                            
+                                            <!-- HEADER Option 3 -->
+                                            
+                                            
+                                                                                                                                    
+                                            <!-- HEADING OPTION  -->
+                                                                                                
+                                                        
+                                                        
+                                                                                                                                                                                                <!-- HEADING OPTION  END -->
+
+                                            
+                                            <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width:100%;min-width:100%;border-collapse:collapse" width="100%">
+                                                <tbody>
+                                                                                                        
+
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+                                                    
+                                                    
+                                                                                                            <tr>
+                                                            <td class="full_banner" style="padding: 0 10px;">
+                                                                                                                                    <a href="https://unstop.com/campus-ambassador-program" target="_blank" style="display: block;">
+    
+
+            
+                        <img 
+                src="https://d8it4huxumps7.cloudfront.net/uploads/images/newsletter-image/64febf4a7be59_newsletter.jpg?d=700x400" 
+                alt="" 
+                style="width: 100%; display: block; margin: 0; border-radius: 8px;"
+            >
+            </a>
+                                                                                                                            </td>
+                                                        </tr>
+                                                    
+
+                                                                                                        
+
+                                                                                                        
+
+                                                                                                        
+
+                                                                                                        
+
+                                                                                                        
+                                                                                                        
+
+                                                                                                        
+
+                                                                                                        
+
+
+                                                                                                        
+
+
+                                                                                                        
+                                                    
+                                                    
+                                                    
+                                                                                                    </tbody>
+                                            </table>
+
+                                                                                            <table style="max-width: 100%; min-width: 100%; border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0" align="left">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>
+                                                                <div class="h50" style="width: 100%; display: block; height: 30px;">
+                                                                    &nbsp;
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                                                                                                                                                
+                                            <!-- HEADING OPTION  -->
+                                                                                                
+                                                        
+                                                                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width:100%;min-width:100%;border-collapse:collapse" width="100%">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td class="pdng_lr" style="padding-left: 30px; padding-right: 30px; padding-bottom: 20px;">
+                                                                            <a
+                                                                                style="text-decoration: none; display: block; color: #455368; font-size: 20px; font-weight: 600; line-height: 100%;"
+                                                                                href="https://unstop.com/internships"
+                                                                            >
+                                                                                Internship Opportunities
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        
+                                                                                                                                                                                                <!-- HEADING OPTION  END -->
+
+                                            
+                                            <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width:100%;min-width:100%;border-collapse:collapse" width="100%">
+                                                <tbody>
+                                                                                                        
+
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+                                                    
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+                                                    
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+                                                    
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+                                                    
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+
+                                                    
+                                                    
+                                                    
+                                                    
+
+                                                                                                        
+
+                                                                                                        
+
+                                                                                                                                                                <tr>
+                                                            <td class="pdng_lr" style="padding-left: 30px; padding-right: 30px;">
+                                                                <table style="max-width: 100%; min-width: 100%; border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0" align="left">
+                                                                    <tbody>
+                                                                                                                                                    <tr class="new_box">
+    <td valign="middle" width="80">
+        <a 
+            href="https://unstop.com/internships/technology-internship-moodys-corporation-878439"
+            style="height: 75px; display: flex; padding: 0; background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; background-image: url(https://d8it4huxumps7.cloudfront.net/uploads/images/6200b25da3f84_80x80.jpg); background-size: cover; background-repeat: repeat;"
+        >
+            <img 
+                src="https://d8it4huxumps7.cloudfront.net/uploads/images/75x75/65afa15fb644d_1280px-Moodys_logo.svg.png"
+                alt="Technology Internship"
+                height="auto"
+                style="width:auto;max-width: 65px; margin: auto;height:auto;display: block; max-height: 65px;"
+            >
+        </a>
+    </td>
+
+    <td class="cptn_box" style="padding: 0 15px; box-sizing: border-box;" valign="middle" width="430">
+        <h2 
+            class="h2_hover"
+            style="color: #101010; font-size: 14px; font-weight: 500; line-height: 125%;"
+        >
+            <a 
+                href="https://unstop.com/internships/technology-internship-moodys-corporation-878439"
+                style="color: inherit !important; text-decoration: none; display: block;"
+                target="_blank"
+            >
+                Technology Internship
+            </a>
+        </h2>
+
+                    <span 
+                class="p_hover"
+                style="font-size: 13px; color: #5a5a5a; line-height: 18px; display: block; margin-top: 2px;"
+            >
+                <a 
+                    href="https://unstop.com/internships/technology-internship-moodys-corporation-878439"
+                    style="color: inherit !important; text-decoration: none; display: block;"
+                    target="_blank"
+                >
+                    Moody's Corporation
+                </a>
+            </span>
+        
+                            
+
+                    <div style="padding-top: 5px;" class="job_type">
+
+                                                
+                                                            <span style="font-size: 12px; font-weight: 500; color: #5a5a5a;  ">
+                            <strong style="color: #0073E6;">Salary:</strong> 
+                                                            INR
+                                                                                                                                                                                                    40k/month(via glassdoor)
+                        </span>
+                                                </div>
+            </td>
+
+    <td class="last_box" style="word-break:break-word; box-sizing: border-box;" valign="middle" width="130">
+        <a class="btn_hover"
+            href="https://unstop.com/internships/technology-internship-moodys-corporation-878439"
+            style="display: block; color: #1C4980; text-decoration: none; padding: 6px 12px; font-weight: 500; font-size: 13px; border: 1px solid #1C4980; border-radius: 5px; box-sizing: border-box; text-align: center;">
+            <span>
+                                                                    Apply now
+                                                    
+            </span>
+            <img 
+                src="https://d8it4huxumps7.cloudfront.net/uploads/images/61fb6557539f0_left_arrow_icon.png" 
+                alt=""
+                style="display: none;"
+            >
+        </a>
+    </td>
+</tr>
+
+
+
+                                                                                                                                                                                                                                <tr>
+        <td colspan="3" style="padding-bottom: 15px; padding-top: 15px;">
+            <div style="width: 100%; display: block; border-top: 1px solid #e7e7e7; height: 1px;"></div>
+        </td>
+    </tr>
+
+<tr class="new_box">
+    <td valign="middle" width="80">
+        <a 
+            href="https://unstop.com/internships/data-analyst-internship-ge-renewable-energy-866439"
+            style="height: 75px; display: flex; padding: 0; background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; background-image: url(https://d8it4huxumps7.cloudfront.net/uploads/images/6200b25da3f84_80x80.jpg); background-size: cover; background-repeat: repeat;"
+        >
+            <img 
+                src="https://d8it4huxumps7.cloudfront.net/uploads/images/75x75/uploadedManual-65a110368aa36_download__9_.png"
+                alt="Data Analyst Internship"
+                height="auto"
+                style="width:auto;max-width: 65px; margin: auto;height:auto;display: block; max-height: 65px;"
+            >
+        </a>
+    </td>
+
+    <td class="cptn_box" style="padding: 0 15px; box-sizing: border-box;" valign="middle" width="430">
+        <h2 
+            class="h2_hover"
+            style="color: #101010; font-size: 14px; font-weight: 500; line-height: 125%;"
+        >
+            <a 
+                href="https://unstop.com/internships/data-analyst-internship-ge-renewable-energy-866439"
+                style="color: inherit !important; text-decoration: none; display: block;"
+                target="_blank"
+            >
+                Data Analyst Internship
+            </a>
+        </h2>
+
+                    <span 
+                class="p_hover"
+                style="font-size: 13px; color: #5a5a5a; line-height: 18px; display: block; margin-top: 2px;"
+            >
+                <a 
+                    href="https://unstop.com/internships/data-analyst-internship-ge-renewable-energy-866439"
+                    style="color: inherit !important; text-decoration: none; display: block;"
+                    target="_blank"
+                >
+                    GE Renewable Energy
+                </a>
+            </span>
+        
+                            
+
+                    <div style="padding-top: 5px;" class="job_type">
+
+                                                
+                                                            <span style="font-size: 12px; font-weight: 500; color: #5a5a5a;  ">
+                            <strong style="color: #0073E6;">Salary:</strong> 
+                                                            INR
+                                                                                                                                                                                                    25k/month(via glassdoor)
+                        </span>
+                                                </div>
+            </td>
+
+    <td class="last_box" style="word-break:break-word; box-sizing: border-box;" valign="middle" width="130">
+        <a class="btn_hover"
+            href="https://unstop.com/internships/data-analyst-internship-ge-renewable-energy-866439"
+            style="display: block; color: #1C4980; text-decoration: none; padding: 6px 12px; font-weight: 500; font-size: 13px; border: 1px solid #1C4980; border-radius: 5px; box-sizing: border-box; text-align: center;">
+            <span>
+                                                                    Apply now
+                                                    
+            </span>
+            <img 
+                src="https://d8it4huxumps7.cloudfront.net/uploads/images/61fb6557539f0_left_arrow_icon.png" 
+                alt=""
+                style="display: none;"
+            >
+        </a>
+    </td>
+</tr>
+
+
+
+                                                                                                                                                                                                                                <tr>
+        <td colspan="3" style="padding-bottom: 15px; padding-top: 15px;">
+            <div style="width: 100%; display: block; border-top: 1px solid #e7e7e7; height: 1px;"></div>
+        </td>
+    </tr>
+
+<tr class="new_box">
+    <td valign="middle" width="80">
+        <a 
+            href="https://unstop.com/internships/software-development-internship-red-baton-877849"
+            style="height: 75px; display: flex; padding: 0; background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; background-image: url(https://d8it4huxumps7.cloudfront.net/uploads/images/6200b25da3f84_80x80.jpg); background-size: cover; background-repeat: repeat;"
+        >
+            <img 
+                src="https://d8it4huxumps7.cloudfront.net/uploads/images/75x75/uploadedManual-65aea39521034_redbaton_logo.jpg"
+                alt="Software Development Internship"
+                height="auto"
+                style="width:auto;max-width: 65px; margin: auto;height:auto;display: block; max-height: 65px;"
+            >
+        </a>
+    </td>
+
+    <td class="cptn_box" style="padding: 0 15px; box-sizing: border-box;" valign="middle" width="430">
+        <h2 
+            class="h2_hover"
+            style="color: #101010; font-size: 14px; font-weight: 500; line-height: 125%;"
+        >
+            <a 
+                href="https://unstop.com/internships/software-development-internship-red-baton-877849"
+                style="color: inherit !important; text-decoration: none; display: block;"
+                target="_blank"
+            >
+                Software Development Internship
+            </a>
+        </h2>
+
+                    <span 
+                class="p_hover"
+                style="font-size: 13px; color: #5a5a5a; line-height: 18px; display: block; margin-top: 2px;"
+            >
+                <a 
+                    href="https://unstop.com/internships/software-development-internship-red-baton-877849"
+                    style="color: inherit !important; text-decoration: none; display: block;"
+                    target="_blank"
+                >
+                    Red Baton
+                </a>
+            </span>
+        
+                            
+
+                    <div style="padding-top: 5px;" class="job_type">
+
+                                                
+                                                            <span style="font-size: 12px; font-weight: 500; color: #5a5a5a;  ">
+                            <strong style="color: #0073E6;">Salary:</strong> 
+                                                            INR
+                                                                                                                                                                                                    20k/month(via glassdoor)
+                        </span>
+                                                </div>
+            </td>
+
+    <td class="last_box" style="word-break:break-word; box-sizing: border-box;" valign="middle" width="130">
+        <a class="btn_hover"
+            href="https://unstop.com/internships/software-development-internship-red-baton-877849"
+            style="display: block; color: #1C4980; text-decoration: none; padding: 6px 12px; font-weight: 500; font-size: 13px; border: 1px solid #1C4980; border-radius: 5px; box-sizing: border-box; text-align: center;">
+            <span>
+                                                                    Apply now
+                                                    
+            </span>
+            <img 
+                src="https://d8it4huxumps7.cloudfront.net/uploads/images/61fb6557539f0_left_arrow_icon.png" 
+                alt=""
+                style="display: none;"
+            >
+        </a>
+    </td>
+</tr>
+
+
+
+                                                                                                                                                                                                                                <tr>
+        <td colspan="3" style="padding-bottom: 15px; padding-top: 15px;">
+            <div style="width: 100%; display: block; border-top: 1px solid #e7e7e7; height: 1px;"></div>
+        </td>
+    </tr>
+
+<tr class="new_box">
+    <td valign="middle" width="80">
+        <a 
+            href="https://unstop.com/internships/hardware-engineer-internship-parinata-music-services-pvt-ltd-877156"
+            style="height: 75px; display: flex; padding: 0; background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; background-image: url(https://d8it4huxumps7.cloudfront.net/uploads/images/6200b25da3f84_80x80.jpg); background-size: cover; background-repeat: repeat;"
+        >
+            <img 
+                src="https://d8it4huxumps7.cloudfront.net/uploads/images/75x75/uploadedManual-65ae01c10c0a8_internship.jpg"
+                alt="Hardware Engineer Internship"
+                height="auto"
+                style="width:auto;max-width: 65px; margin: auto;height:auto;display: block; max-height: 65px;"
+            >
+        </a>
+    </td>
+
+    <td class="cptn_box" style="padding: 0 15px; box-sizing: border-box;" valign="middle" width="430">
+        <h2 
+            class="h2_hover"
+            style="color: #101010; font-size: 14px; font-weight: 500; line-height: 125%;"
+        >
+            <a 
+                href="https://unstop.com/internships/hardware-engineer-internship-parinata-music-services-pvt-ltd-877156"
+                style="color: inherit !important; text-decoration: none; display: block;"
+                target="_blank"
+            >
+                Hardware Engineer Internship
+            </a>
+        </h2>
+
+                    <span 
+                class="p_hover"
+                style="font-size: 13px; color: #5a5a5a; line-height: 18px; display: block; margin-top: 2px;"
+            >
+                <a 
+                    href="https://unstop.com/internships/hardware-engineer-internship-parinata-music-services-pvt-ltd-877156"
+                    style="color: inherit !important; text-decoration: none; display: block;"
+                    target="_blank"
+                >
+                    Parinata Music Services Pvt Ltd
+                </a>
+            </span>
+        
+                            
+
+                    <div style="padding-top: 5px;" class="job_type">
+
+                                                
+                                                            <span style="font-size: 12px; font-weight: 500; color: #5a5a5a;  ">
+                            <strong style="color: #0073E6;">Salary:</strong> 
+                                                            INR
+                                                                                                                                                                                                    10k/month
+                        </span>
+                                                </div>
+            </td>
+
+    <td class="last_box" style="word-break:break-word; box-sizing: border-box;" valign="middle" width="130">
+        <a class="btn_hover"
+            href="https://unstop.com/internships/hardware-engineer-internship-parinata-music-services-pvt-ltd-877156"
+            style="display: block; color: #1C4980; text-decoration: none; padding: 6px 12px; font-weight: 500; font-size: 13px; border: 1px solid #1C4980; border-radius: 5px; box-sizing: border-box; text-align: center;">
+            <span>
+                                                                    Apply now
+                                                    
+            </span>
+            <img 
+                src="https://d8it4huxumps7.cloudfront.net/uploads/images/61fb6557539f0_left_arrow_icon.png" 
+                alt=""
+                style="display: none;"
+            >
+        </a>
+    </td>
+</tr>
+
+
+
+                                                                                                                                                                                                                                <tr>
+        <td colspan="3" style="padding-bottom: 15px; padding-top: 15px;">
+            <div style="width: 100%; display: block; border-top: 1px solid #e7e7e7; height: 1px;"></div>
+        </td>
+    </tr>
+
+<tr class="new_box">
+    <td valign="middle" width="80">
+        <a 
+            href="https://unstop.com/jobs/civil-engineering-internship-realty-clarity-869200"
+            style="height: 75px; display: flex; padding: 0; background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; background-image: url(https://d8it4huxumps7.cloudfront.net/uploads/images/6200b25da3f84_80x80.jpg); background-size: cover; background-repeat: repeat;"
+        >
+            <img 
+                src="https://d8it4huxumps7.cloudfront.net/uploads/images/75x75/65a62ebb03b4d_organisation_image-BUlxWTi3nG709404730uHonrcrCJT.png"
+                alt="Civil Engineering Internship"
+                height="auto"
+                style="width:auto;max-width: 65px; margin: auto;height:auto;display: block; max-height: 65px;"
+            >
+        </a>
+    </td>
+
+    <td class="cptn_box" style="padding: 0 15px; box-sizing: border-box;" valign="middle" width="430">
+        <h2 
+            class="h2_hover"
+            style="color: #101010; font-size: 14px; font-weight: 500; line-height: 125%;"
+        >
+            <a 
+                href="https://unstop.com/jobs/civil-engineering-internship-realty-clarity-869200"
+                style="color: inherit !important; text-decoration: none; display: block;"
+                target="_blank"
+            >
+                Civil Engineering Internship
+            </a>
+        </h2>
+
+                    <span 
+                class="p_hover"
+                style="font-size: 13px; color: #5a5a5a; line-height: 18px; display: block; margin-top: 2px;"
+            >
+                <a 
+                    href="https://unstop.com/jobs/civil-engineering-internship-realty-clarity-869200"
+                    style="color: inherit !important; text-decoration: none; display: block;"
+                    target="_blank"
+                >
+                    Realty Clarity
+                </a>
+            </span>
+        
+                            
+
+                    <div style="padding-top: 5px;" class="job_type">
+
+                                                
+                                                            <span style="font-size: 12px; font-weight: 500; color: #5a5a5a;  ">
+                            <strong style="color: #0073E6;">Salary:</strong> 
+                                                            INR
+                                                                                                                                                                                                    5k/month
+                        </span>
+                                                </div>
+            </td>
+
+    <td class="last_box" style="word-break:break-word; box-sizing: border-box;" valign="middle" width="130">
+        <a class="btn_hover"
+            href="https://unstop.com/jobs/civil-engineering-internship-realty-clarity-869200"
+            style="display: block; color: #1C4980; text-decoration: none; padding: 6px 12px; font-weight: 500; font-size: 13px; border: 1px solid #1C4980; border-radius: 5px; box-sizing: border-box; text-align: center;">
+            <span>
+                                                                    Apply now
+                                                    
+            </span>
+            <img 
+                src="https://d8it4huxumps7.cloudfront.net/uploads/images/61fb6557539f0_left_arrow_icon.png" 
+                alt=""
+                style="display: none;"
+            >
+        </a>
+    </td>
+</tr>
+
+
+
+                                                                                                                                                    
+                                                                                                                                                <tr>
+                                                                            <td colspan="3" style="padding-top: 30px; text-align: center;">
+                                                                                                                                                                    <a
+                                                                                        style="box-sizing: border-box; display: inline-block; background: #1C4980; color: #fff; padding: 10px 30px; border-radius: 8px; font-size: 14px; font-weight: 500; box-sizing: border-box;"
+                                                                                        href="https://unstop.com/internships"
+                                                                                        target="_blank"
+                                                                                        rel="noopener"
+                                                                                    >
+                                                                                        See More Opportunities
+                                                                                    </a>
+                                                                                                                                                            </td>
+                                                                        </tr>
+                                                                        
+                                                                    </tbody>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    
+
+                                                                                                        
+
+                                                                                                        
+                                                                                                        
+
+                                                                                                        
+
+                                                                                                        
+
+
+                                                                                                        
+
+
+                                                                                                        
+                                                    
+                                                    
+                                                    
+                                                                                                    </tbody>
+                                            </table>
+
+                                                                                            <table style="max-width: 100%; min-width: 100%; border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0" align="left">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>
+                                                                <div class="h50" style="width: 100%; display: block; height: 30px;">
+                                                                    &nbsp;
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                                                                                                </td>
+                                    </tr>
+
+                                    <!-- Footer Option 1 -->
+                                                                            <tr>
+                                            <td class="footer" style="padding: 30px; background-color: #ffffff; border-top: 1px solid #e7e7e7; border-radius: 0 0 8px 8px;">
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 100%; min-width: 100%; border-collapse: collapse;">
+                                                    <tbody>
+                                                                                                                <tr>
+                                                            <td class="tags" style="padding-bottom: 20px; text-align: center;">
+                                                                                                                                    <a
+                                                                        href="https://dare2compete.com/jobs"
+                                                                        rel="noopener"
+                                                                        target="_blank"
+                                                                        style="text-decoration: none; display: inline-block; padding: 8px 20px; border-radius: 8px; font-weight: 500; margin: 3px; font-size: 13px; color: #1C4980; background: #e4e8ee;"
+                                                                    >
+                                                                        Jobs
+                                                                    </a>
+                                                                                                                                    <a
+                                                                        href="https://dare2compete.com/scholarships"
+                                                                        rel="noopener"
+                                                                        target="_blank"
+                                                                        style="text-decoration: none; display: inline-block; padding: 8px 20px; border-radius: 8px; font-weight: 500; margin: 3px; font-size: 13px; color: #1C4980; background: #e4e8ee;"
+                                                                    >
+                                                                        Scholarships
+                                                                    </a>
+                                                                                                                                    <a
+                                                                        href="https://dare2compete.com/courses/home"
+                                                                        rel="noopener"
+                                                                        target="_blank"
+                                                                        style="text-decoration: none; display: inline-block; padding: 8px 20px; border-radius: 8px; font-weight: 500; margin: 3px; font-size: 13px; color: #1C4980; background: #e4e8ee;"
+                                                                    >
+                                                                        Courses
+                                                                    </a>
+                                                                                                                                    <a
+                                                                        href="https://unstop.com/hiring-challenges"
+                                                                        rel="noopener"
+                                                                        target="_blank"
+                                                                        style="text-decoration: none; display: inline-block; padding: 8px 20px; border-radius: 8px; font-weight: 500; margin: 3px; font-size: 13px; color: #1C4980; background: #e4e8ee;"
+                                                                    >
+                                                                        Hiring Challenges
+                                                                    </a>
+                                                                                                                            </td>
+                                                        </tr>
+
+                                                        <tr>
+                                                            <td class="updated" style="padding-bottom: 15px;">
+                                                                <table style="width: 100%;">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td style="width: 440px; box-sizing: border-box;" valign="top">
+                                                                                <span
+                                                                                    style="color: #000; display: block; font-size: 14px; font-weight: 500; padding-bottom: 10px; text-align: center; width: 275px;">
+                                                                                    Stay updated
+                                                                                </span>
+                                                                                <div>
+                                                                                    <a
+                                                                                        href="https://play.google.com/store/apps/details?id=com.dare2compete.app"
+                                                                                        style="display: inline-block; text-decoration: none; margin-right: 10px;"
+                                                                                        target="_blank"
+                                                                                    >
+                                                                                        <img
+                                                                                            style="width: 130px; display: inline-block; vertical-align: middle;"
+                                                                                            src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/google-play.png"
+                                                                                            alt="Google play"
+                                                                                        />
+                                                                                    </a>
+
+                                                                                    <a
+                                                                                        href="https://apps.apple.com/in/app/unstop-formerly-dare2compete/id1601170365"
+                                                                                        target="_blank"
+                                                                                        rel="noopener noreferrer nofollow"
+                                                                                        class="gtm_play_store_btn"
+                                                                                        style="display: inline-block; text-decoration: none;"
+                                                                                    >
+                                                                                        <img
+                                                                                            style="width: 130px; display: inline-block; vertical-align: middle;"
+                                                                                            src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/app-store.png"
+                                                                                            alt="Unstop app logo"
+                                                                                        />
+                                                                                    </a>
+                                                                                </div>
+                                                                            </td>
+
+                                                                            <td style="width: 190px; box-sizing: border-box; text-align: right;" valign="top">
+                                                                                <span style="color: #000; display: block; font-size: 14px; font-weight: 500; padding-bottom: 10px; text-align: center;">
+                                                                                    Connect with us
+                                                                                </span>
+                                                                                <div style="text-align: center;">
+                                                                                    <a href="https://www.instagram.com/unstop.world/" style="display: inline-block; text-decoration: none;" target="_blank">
+                                                                                        <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/sharing-icon/instagram-icon.png" alt="Instagram Icon" style="width: 38px;">
+                                                                                    </a>
+
+                                                                                    <a href="https://www.linkedin.com/company/unstop/" style="display: inline-block; text-decoration: none; margin-left: 5px;" target="_blank">
+                                                                                        <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/sharing-icon/linkedin-icon.png" alt="Linkedin Icon" style="width: 38px;">
+                                                                                    </a>
+
+                                                                                    <a href="https://t.me/+ON15qceSy-IyZjY9" style="display: inline-block; text-decoration: none; margin-left: 5px;" target="_blank">
+                                                                                        <img
+                                                                                            src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/sharing-icon/telegram-icon.png"
+                                                                                            alt="Telegram Icon"
+                                                                                            style="width: 38px;"
+                                                                                        >
+                                                                                    </a>
+                                                                                    <a href="https://discord.com/invite/DvYWXNr4yR" style="display: inline-block; text-decoration: none; margin-left: 5px;" target="_blank">
+                                                                                        <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/sharing-icon/discord-icon.png" alt="discord Icon" style="width: 38px;">
+                                                                                    </a>
+                                                                                </div>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="color: #000; font-size: 12px; text-align: center; font-weight: 500;">
+                                                                &copy; 2024 <a href="https://unstop.com/" style="text-decoration: none; color: #000;">Unstop</a>. All rights
+                                                                reserved.
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="color: #101010; font-size: 12px; text-align: center;">
+                                                                <a href="https://unstop.com/newsletter-unsubscribe/MjFjZXVvbjE0OEBkZHUuYWMuaW4="  style="font-size: 12px; color: #101010;">Unsubscribe</a>
+                                                                | <a href="mailto:support@unstop.com" style="color: #101010; text-decoration: none;">Helpdesk</a>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    
+                                    <!-- Footer Option 3 -->
+                                    
+                                    <!-- Footer Option 4 -->
+                                                                    </tbody>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <!-- Footer Option 2 -->
+                    
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>
+
+Notification settings  
+<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s&Email=21ceuon148@ddu.ac.in>
+WSD_2023  
+<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/c/NTkwOTgwMjc5MzYx&Email=21ceuon148@ddu.ac.in>
+Due tomorrow
+
+Lab-06 Use of Data Contract in WCF service.
+1) Create a new calculator WCF service which supports addition and  
+subtraction of complex numbers (real and imaginary fields).
+2) Use Data Contract for complex number class.
+3) Host the service in the Windows Form application. Define metadata and
+application endpoints over TCP protocol in the host application.
+4) Develop a Windows Form client application to consume the calculator  
+service.
+5) Include code, config file of service, host and client in the assignment
+(Don't take the screenshots, copy the code from Visual studio to document
+file). Also keep the output screenshots of the client application.
+6) Upload PDF document with file name as per the format :  
+LabNo_RollNo_Studentname.pdf  (e.g. Lab05_CE001_StudentName.pdf)
+Due Jan 24
+View assignment  
+<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/c/NTkwOTgwMjc5MzYx/a/NjQ3MTkyNzI0ODYx/submissions/by-status/and-sort-last-name/all&Email=21ceuon148@ddu.ac.in>
+
+Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA
+This email was sent to you because you indicated that you'd like to receive  
+email notifications from Google Classroom. If you don't want to receive  
+emails like this, you can unsubscribe or change your settings  
+<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s&Email=21ceuon148@ddu.ac.in>.
+Grammarly You used more of them than 92% of our users, to be exact. 
+
+
+
+
+ <https://www.grammarly.com> 
+
+
+
+January 15 - January 21 
+
+
+Your Weekly Writing Update 
+
+Did you know that you used more unique words than 92% of Grammarly users? 
+Check it out, and keep up the great work! 
+
+
+
+
+
+
+
+Grammarly writing streak 
+
+7 weeks 
+
+
+52 
+Next Achievement 
+
+
+
+
+
+ Productivity
+
+You were more productive than 
+70% of Grammarly users.
+6,689
+words analyzed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 3107Jan 1421
+
+
+
+
+
+Mastery
+
+You were more accurate than 
+37% of Grammarly users.
+112
+alerts shown
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 3107Jan 1421
+
+
+
+
+
+ vocabulary 
+
+You used more unique words than 
+92% of Grammarly users. 
+3,439 
+ unique words used 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 3107Jan 1421
+
+
+
+
+ <> 
+
+TONE 
+
+Some of the tones that were detected in your writing last week: 
+
+
+
+
+1. Confident 
+
+33‌% 
++10% 
+
+2. Informative 
+
+27‌% 
++27% 
+
+3. Direct 
+
+13‌% 
++6% 
+
+4. Informal 
+
+13‌% 
+-2% 
+
+5. Friendly 
+
+8‌% 
++8% 
+
+6. Assertive 
+
+2‌% 
++2% 
+
+7. Curious 
+
+2‌% 
++2% 
+
+
+
+
+
+
+
+WORDS ANALYZED WITH GRAMMARLY OVER TIME 
+
+
+
+499,199
+
+total words analyzed by Grammarly
+ since Dec 18, 2022 
+
+
+
+
+
+
+Unlock 234 advanced suggestions with Grammarly Premium 
+
+
+Suggestions Detected Last Week: 
+
+Correctness 186/234 
+
+Clarity 25/234 
+
+Engagement 25/234 
+
+Delivery 15/234 
+
+
+
+
+Upgrade to Premium 
+<https://redirect.grammarly.com/redirect?hash=b9614db374e008c87a43be1481dfbcfe5b65db23&upgrade=1>
+
+
+
+
+
+
+
+this week's stories & tips 
+
+
+
+
+Students
+
+What’s the Difference Between a Reference Page and a Bibliography? 
+<https://www.grammarly.com/blog/reference-page-vs-bibliography/>› 
+<https://www.grammarly.com/blog/reference-page-vs-bibliography/>
+
+
+
+
+
+Blog Post
+
+Why Is Brand Consistency Important? 7 Ways to Ensure Your Brand Stays On 
+Message 
+<https://www.grammarly.com/business/learn/importance-of-brand-consistency/>› 
+<https://www.grammarly.com/business/learn/importance-of-brand-consistency/>
+
+
+
+
+
+
+
+22 Weird Words to Know and Love <https://www.grammarly.com/blog/weird-words/>› 
+<https://www.grammarly.com/blog/weird-words/>
+
+
+
+
+
+
+Get More From Grammarly
+
+
+
+
+
+
+
+ Browser Extension
+Activate <https://app.grammarly.com/apps> 
+
+
+Mobile Keyboard 
+
+
+
+ Grammarly for Your Desktop
+
+
+
+ Premium Suggestions
+Activate 
+<https://redirect.grammarly.com/redirect?hash=b9614db374e008c87a43be1481dfbcfe5b65db23&upgrade=1>
+
+
+ Free Suggestions 
+
+
+
+
+
+
+ <http://www.facebook.com/grammarly>  <https://www.instagram.com/grammarly/>  
+<http://www.linkedin.com/company/grammarly>  <http://twitter.com/grammarly> 
+
+
+View Web Version 
+<https://click.grammarly.com/e/evib?_t=167a223bd8bb4d69b06c005ac9d28d6f&_m=bcbe8b2afd7f4578baf76937433e06f4&_e=SMa15g2qP2c2g9HPn91wC3Zi_LA8mjuT1EdhfTjy4FR3wFIijECqeZb7Kpk-SmUE-H-ECihTQRaWVZv3KXxD9g%3D%3D>
+ •Email Preferences 
+<https://redirect.grammarly.com/redirect?mail_profile_preferences=1&profileToken=eydlbWFpbCc6ICcyMWNldW9uMTQ4QGRkdS5hYy5pbicsICdzaWduYXR1cmUnOiAnYjJiYmFlOGYwN2M5MjRkMzEzY2MxNzEyZWIyZmNmMjkwNTVjYWVmNid9>
+ •Unsubscribe 
+<https://click.grammarly.com/e/eh?_t=167a223bd8bb4d69b06c005ac9d28d6f&_m=bcbe8b2afd7f4578baf76937433e06f4&_e=0AjNo-noxvZ2AyT2vfo_DN2AAMm47AU8mHyu5bADjMSv6CueKu6ldZRfvwbMaVL6JsPu0S7sD216o6XxELeC6YWG6NvZ2wJJnkxCkXtvYlfKPSzqcgxkXsZh9SuNi4YmNAbhXzd6hv06Dkxfncgeqm9eOpsYJA8QO2swivDVfDbEVs65huqZJVWBYQQsZzkjA6yhXqavmGvxWQeYibUB107kMgjRfJWAKJuVsVHP4TdxDdCBJPjgkHDeW4FKPtc2zaVFE7H3-YJIExkHS9oC4Vws1htxkY_KyNiW9_9Ny_QlXHERUeTQwvQRIogRh6wFfN_2BPdZpSq_hGimraXNYXy3EjM6ar7hnHEArjUissWr1BIr10LFwuqVcNmSUtGR4TAEyLGsgh3K_EZWYtRiC7EfWhScz-B7K6ZRJrzPDsU%3D>
+
+We hope you enjoy monitoring your weekly writing trends. But if you no longer 
+wish to receive Grammarly Insights emails, you may change your preferences by 
+clicking the link above. 
+
+© 2024 Grammarly, Inc., 548 Market St. #35410, San Francisco, CA 94104Your co-pilot for video creation.      Welcome banner 
+( https://ablink.invideo.io/f/a/H0RbtVqyif4aljwy8s7nqA~~/AAQRxQA~/RgRnkmisP0QcaHR0cHM6Ly9haS5pbnZpZGVvLmlvL3NpZ251cFcDc3BjQgploqzjr2UouSteUhQyMWNldW9uMTQ4QGRkdS5hYy5pblgEAAACWQ~~ ) Welcome banner 
+( https://ablink.invideo.io/f/a/H0RbtVqyif4aljwy8s7nqA~~/AAQRxQA~/RgRnkmisP0QcaHR0cHM6Ly9haS5pbnZpZGVvLmlvL3NpZ251cFcDc3BjQgploqzjr2UouSteUhQyMWNldW9uMTQ4QGRkdS5hYy5pblgEAAACWQ~~ )   Step1  Step1    Step2 Step2
+Step3  Step3   Get started ( https://ablink.invideo.io/f/a/H0RbtVqyif4aljwy8s7nqA~~/AAQRxQA~/RgRnkmisP0QcaHR0cHM6Ly9haS5pbnZpZGVvLmlvL3NpZ251cFcDc3BjQgploqzjr2UouSteUhQyMWNldW9uMTQ4QGRkdS5hYy5pblgEAAACWQ~~ )
+Discord ( https://ablink.invideo.io/f/a/YpvexAqabfphpGiD985U9g~~/AAQRxQA~/RgRnkmisP0QdaHR0cHM6Ly9kaXNjb3JkLmdnL2ludmlkZW8tYWlXA3NwY0IKZaKs469lKLkrXlIUMjFjZXVvbjE0OEBkZHUuYWMuaW5YBAAAAlk~ )  Discord 
+( https://ablink.invideo.io/f/a/YpvexAqabfphpGiD985U9g~~/AAQRxQA~/RgRnkmisP0QdaHR0cHM6Ly9kaXNjb3JkLmdnL2ludmlkZW8tYWlXA3NwY0IKZaKs469lKLkrXlIUMjFjZXVvbjE0OEBkZHUuYWMuaW5YBAAAAlk~ )           © 2023 invideo Inc
+
+16192 Coastal Highway, Lewes, Delaware 19958
+
+Unsubscribe ( https://ablink.invideo.io/f/a/Vu_vnWxK-OBIuxwPfgN24Q~~/AAQRxQA~/RgRnkmisP4QDAmh0dHBzOi8vMDUuZW1haWxpbmJvdW5kcHJvY2Vzc2luZy5jb20vZW5jX3VzZXIvdW5zdWJzY3JpYmU_ZD0lMjQxJTI0JTJCTno5d0h4bXZzQ3VVYThmZjc4a0lnJTNEJTNEJTI0SXRJZ1dYdGYwNWdIdXdGQ3B1RWklMkZNRTFEaGN6c29IeDFDQ3FoOW1VNXVOak43ODRJY01jNEdWTyUyRnA3YiUwQVNsRzFteFlvWW94VUd4Z3hqZExmQkdaM3BIJTJCNkFnVnNROTIlMkZldnNPSE9IQ2VuV3NxQUolMkY0RkhXQVlFaSUwQUxGTWtIZ1VEVTRpbzlZcUhXWlg0JTJCMVpJMXIwZlR3R2JtbkUxaXlNd09XOGkzS3kzcThpWDRGSDVZVjRuJTBBenlwUXowUGNkZm9zTTdFRElDS1VzbTBZVEpOYkh2NlJsUXBOQ1ZFQU0yNzl4S0tUcXRtZnJRcm1TMmNoJTBBOWJFb015cjlRVW5UQ2VMdU12VnN0Y0FjYlRUJTJCNDg2aHN6JTJCSU1semVOTkpCQklYcFpxd09IQmgyNVBiWCUwQVM3UFhMMGlpbHRXcmx5VndhJTJGYVpsV2xUS0tZRSUyQlZBTlpUMmglMkJaMThGeUdKMDNhSnVaeENXJTJCJTJCV0k2QUUlMEFVZ0ElM0QmMT0xVwNzcGNCCmWirOOvZSi5K15SFDIxY2V1b24xNDhAZGR1LmFjLmluWAQAAAJZ ) | 
+( https://ablink.invideo.io/f/a/00Bfap8kbS3Fu6PxwD67FQ~~/AAQRxQA~/RgRnkmisP0QTaHR0cHM6Ly9pbnZpZGVvLmlvL1cDc3BjQgploqzjr2UouSteUhQyMWNldW9uMTQ4QGRkdS5hYy5pblgEAAACWQ~~ ) Manage preferences (
+https://ablink.invideo.io/f/a/tlS71pTCrnSJjphMwZQK_g~~/AAQRxQA~/RgRnkmisP4RgAmh0dHBzOi8vMDUuZW1haWxpbmJvdW5kcHJvY2Vzc2luZy5jb20vZW1haWwvbWFuYWdlX3N1YnNjcmlwdGlvbnMvJTI0MSUyNDg3d3ZlRUI0T2J1bnFyZ3BtZXlNbUElM0QlM0QlMjRsM2VENTJuN3pBSXFDZ0NxQjVSNnN3MWhhWlM3dm8lMkJISjhDeWpUUG1rZWMlM0Q_ZD0lMjQxJTI0JTJCTno5d0h4bXZzQ3VVYThmZjc4a0lnJTNEJTNEJTI0SXRJZ1dYdGYwNWdIdXdGQ3B1RWklMkZNRTFEaGN6c29IeDFDQ3FoOW1VNXVOak43ODRJY01jNEdWTyUyRnA3YiUwQVNsRzFteFlvWW94VUd4Z3hqZExmQkdaM3BIJTJCNkFnVnNROTIlMkZldnNPSE9IQ2VuV3NxQUolMkY0RkhXQVlFaSUwQUxGTWtIZ1VEVTRpbzlZcUhXWlg0JTJCMVpJMXIwZlR3R2JtbkUxaXlNd09XOGkzS3kzcThpWDRGSDVZVjRuJTBBenlwUXowUGNkZm9zTTdFRElDS1VzbTBZVEpOYkh2NlJsUXBOQ1ZFQU0yNzl4S0tUcXRtZnJRcm1TMmNoJTBBOWJFb015cjlRVW5UQ2VMdU12VnN0Y0FjYlRUJTJCNDg2aHN6JTJCSU1semVOTkpCQklYcFpxd09IQmgyNVBiWCUwQVM3UFhMMGlpbHRXcmx5VndhJTJGYVpsV2xUS0tZRSUyQlZBTlpUMmglMkJaMThGeUdKMDNhSnVaeENXJTJCJTJCV0k2QUUlMEFVZ0ElM0QmMT0xVwNzcGNCCmWirOOvZSi5K15SFDIxY2V1b24xNDhAZGR1LmFjLmluWAQAAAJZ )
