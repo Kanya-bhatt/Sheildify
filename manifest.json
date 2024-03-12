@@ -1,0 +1,41 @@
+{
+    "manifest_version": 3,
+    "name": "Gmail API Extension",
+    "version": "1.0",
+    "description": "A simple extension to authenticate and access Gmail API",
+    "permissions": ["identity", "activeTab"],
+    "host_permissions": ["https://mail.google.com/","http://127.0.0.1:5000/execute-script"],
+    "web_accessible_resources": [
+      {
+        "resources": ["popup.html"],
+        "matches": ["<all_urls>"]
+      }
+    ],
+
+    
+
+    "action": {
+      "default_popup": "popup.html",
+      "popup": "nextPage.html"
+    
+    },
+    "oauth2": {
+      "client_id": "576971273804-v00emgrcusm93ogq1v8059e8o5olvn0c.apps.googleusercontent.com",
+      "scopes": ["https://www.googleapis.com/auth/gmail.readonly"]
+    },
+    
+  "icons": {
+    "120": "./images/sheildifyLogo.png"
+},
+
+"content_scripts": [
+  {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+  }
+]
+
+
+    
+}
+  

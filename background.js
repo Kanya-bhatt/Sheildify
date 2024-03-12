@@ -1,0 +1,1 @@
+chrome.tabs.update({url: 'chrome-extension://lhahigogdkchdlphmhenacgolemcghgf/popup.html'})

@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'YourCustomFont'; /* Name to reference the font */
+  src: url('../fonts/Open_Sans/OpenSans-Italic.ttf') format('truetype'); /* Path to the font file */
+}
+

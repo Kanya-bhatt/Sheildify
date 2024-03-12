@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <script src="nextPage.js"></script>
+        <link rel="stylesheet" href="nextPage.css">
+        <style>
+            body {
+              cursor: url('./images/cursor4.png'), auto !important;
+                
+            }
+            button{
+              cursor: url('./images/cursor4.png'), auto !important;
+            }
+            div{
+                cursor: url('./images/cursor4.png'), auto !important;
+            }
+            #fullLogo {
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+        </style>
+    </head>
+    <body style="width: 800px; height: 500px; overflow-y: auto; color: white; font-family: YourCustomFont;">
+        
+        
+        <div id="content">  
+            
+        
+    <h1 id = 'title1' style="color: black; align-items: center;">Predict The Fetched Data</h1><br/>
+
+    <!-- <img src="./images/emailGif-unscreen.gif" height="300px" width="300px" style="margin-left: 300px;"/> -->
+    <div class = "button-wrapper" data-tippy-content="Reset" style="padding-top: 20px;">
+<button id="prediction" class = "button-55" role="button">Predict</button>
+    </div>
+        <div id = 'outcome' style="color: black; padding-top: 10px;"></div>
+        <img src="./images/newEmailGif-unscreen.gif"/>
+
+        </div>
+
+        <img id="loaderGif" class="hidden" src="./images/loaderGoogle.gif" alt="Loading..." height="500px" width="800px"/>
+        
+    </body>

@@ -1,1400 +1,575 @@
+SHEILDIFYFrom: 
+Google <no-reply@accounts.google.com>Subject: 
+Security alertEmail: 
+[image: Google]
+Shieldify was granted access to your Google account
 
-I've shared an item with you:
-
-Untitled document
-https://docs.google.com/document/d/1lYkUQhEoSaW8igZQTRoJNbA8IT6dtXclJDlwCBVC_H0/edit?usp=sharing&ts=65b0d3ee
-
-It's not an attachment -- it's stored online. To open this item, just click  
-the link above.
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>unstop</title>
-        <meta name="author" content="" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <style type="text/css">
-            @import  url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&');
-
-            body {
-                width: auto;
-                margin: 0;
-                padding: 0;
-                font-size: 14px;
-                -webkit-text-size-adjust: 100% !important;
-                -ms-text-size-adjust: 100% !important;
-                -webkit-font-smoothing: antialiased;
-                background-color: #FFFFFF;
-                font-family: 'Inter', sans-serif;
-            }
-
-            h1,
-            h2,
-            h3,
-            h4,
-            h5,
-            h6,
-            td,
-            a,
-            span {
-                font-family: 'Inter', sans-serif !important;
-            }
-
-            h2,
-            p {
-                margin: 0;
-                padding: 0;
-                display: block;
-                font-style: normal;
-                letter-spacing: normal;
-            }
-
-            h2 {
-                font-size: 16px;
-                font-weight: bold;
-                line-height: 125%;
-            }
-
-            p {
-                margin: 10px 0;
-                font-size: 14px;
-                line-height: 21px;
-            }
-
-            img {
-                border: 0 !important;
-                outline: none !important;
-                display: block;
-                width: 100%;
-                height: auto;
-                margin: 0px;
-                padding: 0px;
-            }
-
-            a {
-                text-decoration: none;
-                color: rgba(0, 0, 0, .75);
-            }
-
-            .ii a[href] {
-                color: rgba(0, 0, 0, .75) !important;
-            }
-
-            .read_more {
-                color: #ffffff;
-                font-weight: 400;
-                background-color: #0073e6;
-                border-radius: 50px;
-                padding: 8px 15px;
-                display: inline-block;
-                font-size: 14px;
-                line-height: normal;
-                text-decoration: none;
-            }
-
-            ul {
-                margin: 0;
-                padding: 0;
-            }
-
-            li {
-                margin: 0;
-                padding: 0;
-                line-height: 150%;
-                font-size: 15px;
-            }
-
-            table {
-                border-collapse: collapse;
-                mso-table-lspace: 0px;
-                mso-table-rspace: 0px;
-                float: none !important;
-            }
-
-            .bg-box {
-                border: 1px solid #e8e8e8;
-            }
-
-            .pdng_box {
-                padding: 15px;
-            }
-
-            .cptn h2,
-            .cptn h3,
-            .items h2,
-            .items h3,
-            .full_item h2,
-            .full_item h3,
-            .cptn p,
-            .register_now,
-            .btn_hover,
-            .participate_now,
-            .h2_hover,
-            .p_hover,
-            .tags a {
-                transition: .3s;
-            }
-
-            .cptn h2:hover,
-            .cptn h3:hover,
-            .items h2:hover,
-            .items h3:hover,
-            .full_item h2:hover,
-            .full_item h3:hover,
-            .cptn p:hover,
-            .h2_hover:hover,
-            .p_hover:hover {
-                color: #0073E6 !important;
-            }
-
-            .register_now:hover {
-                background: #434343 !important;
-            }
-
-            .participate_now:hover,
-            .tags a:hover,
-            .btn_hover:hover {
-                background: #1C4980 !important;
-                color: #ffffff !important;
-            }
-            .ji_box:nth-child(even) .ji_email {
-                background-color: #e8e8e8 !important;
-            }
-
-            @media  only screen and (max-width: 600px) {
-                .full_width {
-                    padding-left: 0 !important;
-                    padding-right: 0 !important;
-                    width: 100%;
-                    display: block !important;
-                    clear: both;
-                }
-
-                .bites_pdng_top {
-                    padding-top: 10px !important;
-                }
-
-                .bites_pdng_top h2 {
-                    margin-bottom: 10px !important;
-                }
-
-                .pdng_none {
-                    padding-left: 0 !important;
-                    padding-right: 0 !important;
-                }
-
-                .full_img {
-                    min-height: auto !important;
-                }
-
-                .full-width-sect h2 {
-                    font-size: 16px !important;
-                }
-
-                .small_img {
-                    max-height: 100% !important;
-                }
-
-                .new_box .cptn_box {
-                    width: calc(100% - 110px) !important;
-                    padding: 0 10px !important;
-                }
-                .new_box h2 {
-                    font-size: 13px !important;
-                }
-                .new_box span {
-                    font-size: 12px !important;
-                    line-height: 16px !important;
-                    margin-top: 3px !important;
-                }
-                .new_box p {
-                    font-size: 12px !important;
-                    margin: 5px 0 0 0 !important;
-                    line-height: 14px;
-                }
-                .new_box .last_box {
-                    width: 30px !important;
-                }
-                .new_box .last_box a {
-                    width: 30px;
-                    height: 30px;
-                    background: #1C4980 !important;
-                    border-radius: 50px !important;
-                    padding: 0 !important;
-                    line-height: 26px !important;
-                }
-                .new_box .last_box span {
-                    display: none !important;
-                }
-                .new_box .last_box img {
-                    display: inline-block !important;
-                    width: auto;
-                    height: 14px;
-                    vertical-align: middle;
-                }
-
-                .m_mobile1 {
-                    text-align: center !important;
-                    margin-top: 10px !important;
-                }
-
-                .m_mobile2 {
-                    text-align: center !important;
-                    margin-bottom: 10px !important;
-                }
-
-                .hdng {
-                    padding-bottom: 15px !important;
-                }
-
-                .hdng a {
-                    font-size: 18px !important;
-                    padding: 10px !important;
-                }
-
-                .pdng {
-                    padding: 0 15px !important;
-                }
-
-                .pdng_lr {
-                    padding-left: 15px !important;
-                    padding-right: 15px !important;
-                }
-
-                .item td {
-                    width: 100% !important;
-                    display: block;
-                    padding: 0 !important;
-                    text-align: left !important;
-                }
-
-                .item .cptn {
-                    padding-top: 12px !important;
-                }
-
-                .even_item .cptn {
-                    padding-top: 0 !important;
-                    padding-bottom: 12px !important;
-                }
-
-                .art_item p {
-                    font-size: 14px !important;
-                    line-height: 21px !important;
-                    display: -webkit-box;
-                    -webkit-line-clamp: 3;
-                    overflow: hidden;
-                    -webkit-box-orient: vertical;
-                }
-
-                .art_img {
-                    width: 120px !important;
-                }
-
-                .user_name {
-                    font-size: 18px !important;
-                }
-
-                .user_dtls {
-                    font-size: 15px !important;
-                    line-height: 20px !important;
-                }
-
-                .bdr_top {
-                    padding-bottom: 15px !important;
-                    padding-top: 15px !important;
-                }
-
-                .items > td {
-                    width: 100% !important;
-                    padding: 0 0 30px !important;
-                    display: block !important;
-                }
-                .items > td:last-child {
-                    padding: 0 !important;
-                }
-
-                .full_item > td {
-                    width: 100% !important;
-                    padding: 0 !important;
-                    display: block !important;
-                }
-
-                .full_item h2 {
-                    margin-top: 15px !important;
-                }
-
-                .participate_now {
-                    margin-top: 15px !important;
-                    font-size: 13px !important;
-                }
-
-                .h40 {
-                    height: 30px !important;
-                }
-                .h10 {
-                    height: 5px !important;
-                }
-
-                .hdng_icon {
-                    padding-left: 15px !important;
-                }
-
-                .footer {
-                    padding: 20px 0 !important;
-                }
-                .tags {
-                    padding-bottom: 10px !important;
-                }
-                .tags a {
-                    font-size: 10px !important;
-                    padding: 7px 10px !important;
-                    margin: 3px 1px !important;
-                    border-radius: 5px !important;
-                }
-                .updated {
-                    padding-bottom: 0 !important;
-                }
-                .updated tr {
-                    display: block;
-                }
-                .updated td {
-                    display: block;
-                    width: 100% !important;
-                    text-align: center !important;
-                    padding-bottom: 10px;
-                }
-                .updated td span {
-                    padding-bottom: 6px !important;
-                    width: 100% !important;
-                }
-                .bg_box {
-                    border: 1px solid #e7e7e7;
-                    border-radius: 8px;
-                }
-                .bg_box > table{
-                    border: 0 !important;
-                }
-                .full_banner {
-                    padding-left: 5px !important;
-                    padding-right: 5px !important;
-                }
-
-                .hdr_option2 {
-                    padding: 15px !important;
-                }
-
-                .hdr_option2 td {
-                    width: 100% !important;
-                    text-align: center !important;
-                    display: block;
-                }
-
-                .hdr_option2 .logo {
-                    margin-bottom: 15px;
-                    padding-top: 0 !important;
-                }
-
-                .hdr_option2 .logo img {
-                    margin: auto;
-                }
-                .mb_none a {
-                    margin: 3px 1px !important;
-                    padding: 6px 10px !important;
-                    font-size: 10px !important;
-                }
-
-
-                .full_width_item td {
-                    width: 100% !important;
-                    display: block;
-                    padding: 0 !important;
-                    text-align: left !important;
-                }
-
-                .full_width_item .cptn {
-                    padding-top: 15px !important;
-                }
-
-                .full_width_item h2 {
-                    font-size: 15px !important;
-                }
-                .full_width_item p {
-                    font-size: 13px !important;
-                    line-height: 18px !important;
-                }
-
-                .d2c_icon {
-                    padding: 12px !important;
-                }
-                .job_type {
-                    display: none !important;
-                }
-
-                .ji_hedr {
-                    padding: 20px !important;
-                }
-                .ji_hedr div {
-                    font-size: 20px !important;
-                }
-                .ji_email {
-                    padding: 15px !important;
-                }
-                .ji_email .logo_box {
-                    width: 70px !important;
-                }
-                .ji_email .logo_box a {
-                    width: 70px !important;
-                }
-                .explore_jobs {
-                    background-size: 70px !important;
-                }
-                .explore_jobs a {
-                    font-size: 15px !important;
-                }
-
-            }
-        </style>
-    </head>
-
-    <body>
-        <div class="bg_box" style="width: 100%; background-color: #FFFFFF;">
-            <table style="border-collapse: collapse; border: 0; width: 100%; max-width: 700px; margin: 0 auto; border: 1px solid #e7e7e7;" cellspacing="0" cellpadding="0">
-                <tbody>
-                    <tr>
-                        <td style="background-color: #ffffff; border: 0; padding: 0; border-radius: 8px;" valign="top">
-                            <table style="min-width: 100%; border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0">
-                                <tbody>
-                                    <tr>
-                                        <td valign="top">
-                                            <!-- HEADER Option 1 -->
-                                                                                            <table style="max-width: 100%; min-width: 100%; border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0" align="left">
-                                                    <tbody>
-                                                        <tr>
-                                                            <td class="d2c_icon" style="text-align: center; padding: 15px;">
-                                                                <a style="display: block;" href="https://unstop.com/">
-                                                                <img
-                                                                    style="width: 90px; display: inline-block; vertical-align: middle;"
-                                                                    src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/branding-guidelines/png/unstop-logo-500x198.png"
-                                                                    alt="Tap here to view the opportunities!"
-                                                                />
-                                                                <span style="display: inline-block; border-left: 1px solid rgba(39,73,125,.5); padding-left: 10px; margin-left: 8px; color: #1C4980; font-size: 12px; text-align: left; vertical-align: middle;">
-                                                                    Formerly
-                                                                    <strong style="display: block; font-size: 13px; font-weight: 500; line-height: normal;">
-                                                                    Dare2Compete
-                                                                    </strong>
-                                                                </span>
-                                                                </a>
-                                                            </td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                            
-                                            <!-- HEADER Option 2 -->
-                                            
-                                            <!-- HEADER Option 3 -->
-                                            
-                                            
-                                                                                                                                    
-                                            <!-- HEADING OPTION  -->
-                                                                                                
-                                                        
-                                                        
-                                                                                                                                                                                                <!-- HEADING OPTION  END -->
-
-                                            
-                                            <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width:100%;min-width:100%;border-collapse:collapse" width="100%">
-                                                <tbody>
-                                                                                                        
-
-                                                    
-
-                                                    
-
-                                                    
-
-                                                    
-
-                                                    
-                                                    
-                                                    
-                                                                                                            <tr>
-                                                            <td class="full_banner" style="padding: 0 10px;">
-                                                                                                                                    <a href="https://unstop.com/campus-ambassador-program" target="_blank" style="display: block;">
-    
 
+bkkanya123@gmail.com
+
+If you did not grant access, you should check this activity and secure your
+account.
+Check activity You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2024 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
+SHEILDIFYFrom: 
+Medium Daily Digest <noreply@medium.com>Subject: 
+Top 30 JavaScript Interview Questions You Must Know | Svetloslav Novoselski in JavaScript in Plain EnglishEmail: 
+Stories for Kanya Bhatt
+@bkkanya123 (https://medium.com/@bkkanya123?source=email-c71cce8f227f-1709938941775-digest.reader-------------------------c95c2317_2d54_4ce3_b969_7b048d29bcea)
+·Become a member (https://medium.com/plans?source=email-c71cce8f227f-1709938941775-digest.reader-------------------------c95c2317_2d54_4ce3_b969_7b048d29bcea)
+
+Today's highlights
+
+Svetloslav Novoselski (https://medium.com/@novoselski?source=email-c71cce8f227f-1709938941775-digest.reader-4b3a1ed4f11c-6bf8517ec4f3----0-109------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+ in JavaScript in Plain English (https://medium.com/javascript-in-plain-english?source=email-c71cce8f227f-1709938941775-digest.reader-4b3a1ed4f11c-6bf8517ec4f3----0-109------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+·10 min read
+
+Top 30 JavaScript Interview Questions You Must Know
+
+In this article you can find some of the top JavaScript interview questions, If you find yourself on the job…
+
+Nathan Rosidi (https://medium.com/@nathanrosidi?source=email-c71cce8f227f-1709938941775-digest.reader--c6be8f3ddbd7----1-98------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+·4 min read
+
+Data Science in 2024 - What Has Changed
+
+What has changed in the data science landscape, and what are the challenges of the 2024 data science job…
+
+Techmade (https://medium.com/@techmade?source=email-c71cce8f227f-1709938941775-digest.reader--33faa0f1640b----2-109------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+·4 min read
+
+JavaScript One-Liners for Senior Frontend Engineers
+
+JavaScript is a versatile language, and knowing these one-liners can make you look like a pro. Let's dive…
+
+Diane Wilder (https://medium.com/@dianewilder?source=email-c71cce8f227f-1709938941775-digest.reader-8ccc50cc7845-9714c68af46f----3-99------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+ in The Memoirist (https://medium.com/the-memoirist?source=email-c71cce8f227f-1709938941775-digest.reader-8ccc50cc7845-9714c68af46f----3-99------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+·8 min read
+
+The Kidnap and Ransom of a Wendy's Cheese Cow
+
+How an elaborate prank brought us together
+
+William Spivey (https://medium.com/@williamspivey?source=email-c71cce8f227f-1709938941775-digest.reader-3abc5b08d17c-ac5c23f1dc67----4-99------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+ in The Polis (https://medium.com/the-polis?source=email-c71cce8f227f-1709938941775-digest.reader-3abc5b08d17c-ac5c23f1dc67----4-99------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+·4 min read
+
+Alabama Man Freezes to Death on Floor of Jail Cell
+
+"The defendants do not think they did anything wrong,"
+
+Lost Layla (https://medium.com/@giftedloser101?source=email-c71cce8f227f-1709938941775-digest.reader-6bce11233776-676ae48278ca----5-99------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+ in Pink Hair & Pronouns (https://medium.com/pink-hair-pronouns?source=email-c71cce8f227f-1709938941775-digest.reader-6bce11233776-676ae48278ca----5-99------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+·7 min read
+
+My Son Shouldn't Have to Represent the Entire Trans Community
+
+But the truth is for most of the people in our small Bible Belt town, he will.
+
+Asad iqbal (https://medium.com/@deasadiqbal?source=email-c71cce8f227f-1709938941775-digest.reader--c0dc48142953----6-98------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+·6 min read
+
+Top 20 Data Scientist Interview Questions
+
+Explore the top data science interview questions with answers professionals looking for jobs.
+
+Ravi M (https://medium.com/@ravi-m?source=email-c71cce8f227f-1709938941775-digest.reader--de7d8c462bc2----7-99------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+·5 min read
+
+Mastering the Filter() Function in Python: A Comprehensive Guide
+
+Discover the power and versatility of Python's built-in filter() function for streamlining your code and…
+
+Laxfed Paulacy (https://medium.com/@laxfed?source=email-c71cce8f227f-1709938941775-digest.reader-5fe885ae8700-baea81df46f7----8-99------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+ in Straight Bias Python (https://medium.com/paulacy-pulse?source=email-c71cce8f227f-1709938941775-digest.reader-5fe885ae8700-baea81df46f7----8-99------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+·2 min read
+
+KNN Algorithm Implementation in Python
+
+KNN Algorithm Implementation in Python
+
+The k-Nearest Neighbors (kNN) algorithm is one of the most widely…
+
+Rishabh (https://medium.com/@rishabh7g?source=email-c71cce8f227f-1709938941775-digest.reader-36bcc5e61cee-b224a3f84e3b----9-98------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+ in JavaScript Journal: Unlocking Project Potential (https://medium.com/javascript-journal-unlocking-project-potential?source=email-c71cce8f227f-1709938941775-digest.reader-36bcc5e61cee-b224a3f84e3b----9-98------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+·3 min read
+
+Building a TypeScript-React Project from Scratch with Webpack
+
+Webpack is the go-to bundler for many JavaScript projects, offering robust and flexible configurations. While…
+
+Adam Fisher / fisher king (@therightstuff) (https://medium.com/@therightstuff?source=email-c71cce8f227f-1709938941775-digest.reader-5517fd7b58a6-1130b11449c4----10-99------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+ in Level Up Coding (https://medium.com/gitconnected?source=email-c71cce8f227f-1709938941775-digest.reader-5517fd7b58a6-1130b11449c4----10-99------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+·4 min read
+
+Customizing A React-Admin Datagrid For Lazy-Loading
+
+When you want the individual entries in your list enriched separately
+
+Aditya (https://medium.com/@samgill1256?source=email-c71cce8f227f-1709938941775-digest.reader--73d97fad96b3----11-98------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+·11 min read
+
+Reinforcement Learning in Chess
+
+Reinforcement learning constitutes a captivating domain within machine learning, centered on mastering…
+
+Dylan Combellick (https://medium.com/@dylan_combellick?source=email-c71cce8f227f-1709938941775-digest.reader--56c692651cbb----12-99------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+·4 min read
+
+7 Must-Have Phone Features for 2024
+
+The anti-click-bait bait
+
+Cris Velasquez (https://medium.com/@crisvelasquez?source=email-c71cce8f227f-1709938941775-digest.reader--05e1ef5c0860----13-99------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+·13 min read
+
+Automating Scientific Knowledge Retrieval with AI in Python
+
+End-to-End Guide for Developing a Research Chatbot with OpenAI functions Capable of Semantic Search Across…
+
+John Loewen, PhD (https://medium.com/@loewenj700?source=email-c71cce8f227f-1709938941775-digest.reader-1e670d9f036b-c4c62a63f31a----14-99------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+ in Data Storytelling Corner (https://medium.com/data-storytelling-corner?source=email-c71cce8f227f-1709938941775-digest.reader-1e670d9f036b-c4c62a63f31a----14-99------------------c95c2317_2d54_4ce3_b969_7b048d29bcea-1)
+·6 min read
+
+Using Comparative Visuals: 3 Hands-on Examples With Python Plotly
+
+The value of data often lies in its comparability - Tufte
+
+See more of what you like and less of what you don't.
+Control your recommendations (https://medium.com/me/missioncontrol?source=email-c71cce8f227f-1709938941775-digest.reader-------------------------c95c2317_2d54_4ce3_b969_7b048d29bcea)
+
+Read from anywhere.
+
+Sent by Medium (https://medium.com/?source=email-c71cce8f227f-1709938941775-digest.reader-------------------------c95c2317_2d54_4ce3_b969_7b048d29bcea)
+·Medium, 548 Market St, PMB 42061, San Francisco, CA 94104
+Unsubscribe (https://medium.com/me/email-settings/c71cce8f227f/80182effebaf?type=social&source=email-c71cce8f227f-1709938941775-digest.reader-------------------------c95c2317_2d54_4ce3_b969_7b048d29bcea)
+ from this type of email·Switch to the Weekly Digest (https://medium.com/me/email-settings/c71cce8f227f/80182effebaf?type=social&preference=2&source=email-c71cce8f227f-1709938941775-digest.reader-------------------------c95c2317_2d54_4ce3_b969_7b048d29bcea)
+·Careers (https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=email-c71cce8f227f-1709938941775-digest.reader-------------------------c95c2317_2d54_4ce3_b969_7b048d29bcea)
+·Help Center (https://help.medium.com/hc/en-us?source=email-c71cce8f227f-1709938941775-digest.reader-------------------------c95c2317_2d54_4ce3_b969_7b048d29bcea)
+·Privacy Policy (https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=email-c71cce8f227f-1709938941775-digest.reader-------------------------c95c2317_2d54_4ce3_b969_7b048d29bcea)
+·Terms of service (https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=email-c71cce8f227f-1709938941775-digest.reader-------------------------c95c2317_2d54_4ce3_b969_7b048d29bcea)
+
+SHEILDIFYFrom: 
+Devpost <support@devpost.com>Subject: 
+Only 3 days left to enter your submission to The PartyRock Generative AI Hackathon by AWS!  - The PartyRock Generative AI Hackathon by AWSEmail: 
+( http://devpost.com )
+
+Submissions are due March 11th at 5pm PDT. 
+
+Submission checklist: 
+
+* Run through this list before you sit back from your project:
+* Did you Create or Remix a PartyRock app OR Remix the community-created ChatRPG (Remix Side Quest)?
+* Did you select which category your project falls into?
+* Are all of your teammates added to your submission form? Remind them to accept the invitation so that they’re listed on the project submission!
+* Have you created a submission video (they’re not required, but highly recommended)? If so, is your video public, coherent and shows interactions with your app? A reminder that demos should be around 90 seconds and judges' time is very valuable so anything over may not be viewed by them.
+* If you Remixed someone else’s app, did you provide a link to the original app? Did you describe all the changes you made for the judges?
+
+You received this email because you signed up for The PartyRock Generative AI Hackathon by AWS. If you're no longer participating, you can unregister here ( https://awspartyrockhackathon.devpost.com/ ).
+
+© 2024 Devpost, Inc. All rights reserved. Unsubscribe from these notifications ( https://devpost.com/notification_subscriptions/kP4LDssPGRPpdSqc5kogyA )
+
+SHEILDIFYFrom: 
+LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>Subject: 
+“devops engineer” roles: 6 new jobsEmail: 
+Your job alert for devops engineer in Chennai
+        
+6 new jobs match your preferences.  
+          
+DevOps Engineer
+Hitachi Energy
+Chennai
+This company is actively hiring
+View job: https://www.linkedin.com/comm/jobs/view/3850273720/?trackingId=ybfkgDfNxkBQdv2A7G%2B03A%3D%3D&refId=ByteString%28length%3D16%2Cbytes%3D44e106de...bb32dd92%29&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BcI3u8I2YRKaoT47ixjSA7Q%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=2G5DcWTSebTb81&trk=eml-email_job_alert_digest_01-job_card-0-view_job&trkEmail=eml-email_job_alert_digest_01-job_card-0-view_job-null-fk339c~ltjd132y~lh-null-null&eid=fk339c-ltjd132y-lh&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VlYjA4YWNlZDI0MTlkYWI4ODYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjkwNjFjMWM0ZDc2Nzg2Y2M4ODIwNzNjYjZiYjNiMzk1M2VkMzkyNGE4NTg2ZWU1MywxLDE%3D
+
+---------------------------------------------------------
+  
+          
+Staff DevOps Engineer
+Equiniti
+Chennai
+This company is actively hiring
+View job: https://www.linkedin.com/comm/jobs/view/3832306309/?trackingId=fGxdZJyRLjmtsbK4kuj1qA%3D%3D&refId=ByteString%28length%3D16%2Cbytes%3D44e106de...bb32dd92%29&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BcI3u8I2YRKaoT47ixjSA7Q%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=2G5DcWTSebTb81&trk=eml-email_job_alert_digest_01-job_card-0-view_job&trkEmail=eml-email_job_alert_digest_01-job_card-0-view_job-null-fk339c~ltjd132y~lh-null-null&eid=fk339c-ltjd132y-lh&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VlYjA4YWNlZDI0MTlkYWI4ODYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjkwNjFjMWM0ZDc2Nzg2Y2M4ODIwNzNjYjZiYjNiMzk1M2VkMzkyNGE4NTg2ZWU1MywxLDE%3D
+
+---------------------------------------------------------
+  
+          
+Senior DevOps Engineer CDRO
+CloudBees
+Chennai
+View job: https://www.linkedin.com/comm/jobs/view/3813976520/?trackingId=nMjJMip06lIKVzfFzXtbPg%3D%3D&refId=ByteString%28length%3D16%2Cbytes%3D44e106de...bb32dd92%29&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BcI3u8I2YRKaoT47ixjSA7Q%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=2G5DcWTSebTb81&trk=eml-email_job_alert_digest_01-job_card-0-view_job&trkEmail=eml-email_job_alert_digest_01-job_card-0-view_job-null-fk339c~ltjd132y~lh-null-null&eid=fk339c-ltjd132y-lh&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VlYjA4YWNlZDI0MTlkYWI4ODYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjkwNjFjMWM0ZDc2Nzg2Y2M4ODIwNzNjYjZiYjNiMzk1M2VkMzkyNGE4NTg2ZWU1MywxLDE%3D
+
+---------------------------------------------------------
+  
+          
+Sr/Lead Devops Engineer
+HID
+Chennai
+This company is actively hiring
+Apply with resume & profile
+View job: https://www.linkedin.com/comm/jobs/view/3850249276/?trackingId=iFA5p67tx6AozMSRsMn%2Ffg%3D%3D&refId=ByteString%28length%3D16%2Cbytes%3D44e106de...bb32dd92%29&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BcI3u8I2YRKaoT47ixjSA7Q%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=2G5DcWTSebTb81&trk=eml-email_job_alert_digest_01-job_card-0-view_job&trkEmail=eml-email_job_alert_digest_01-job_card-0-view_job-null-fk339c~ltjd132y~lh-null-null&eid=fk339c-ltjd132y-lh&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VlYjA4YWNlZDI0MTlkYWI4ODYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjkwNjFjMWM0ZDc2Nzg2Y2M4ODIwNzNjYjZiYjNiMzk1M2VkMzkyNGE4NTg2ZWU1MywxLDE%3D
+
+---------------------------------------------------------
+  
+          
+Senior DevOps Engineer
+DHL
+Chennai
+This company is actively hiring
+View job: https://www.linkedin.com/comm/jobs/view/3827807894/?trackingId=uoXz4c7WAHQeLZGui%2Bsv%2Fg%3D%3D&refId=ByteString%28length%3D16%2Cbytes%3D44e106de...bb32dd92%29&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BcI3u8I2YRKaoT47ixjSA7Q%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=2G5DcWTSebTb81&trk=eml-email_job_alert_digest_01-job_card-0-view_job&trkEmail=eml-email_job_alert_digest_01-job_card-0-view_job-null-fk339c~ltjd132y~lh-null-null&eid=fk339c-ltjd132y-lh&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VlYjA4YWNlZDI0MTlkYWI4ODYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjkwNjFjMWM0ZDc2Nzg2Y2M4ODIwNzNjYjZiYjNiMzk1M2VkMzkyNGE4NTg2ZWU1MywxLDE%3D
+
+---------------------------------------------------------
+  
+          
+Lead DevOps Engineer
+Versatile People
+India
+This company is actively hiring
+Apply with resume & profile
+View job: https://www.linkedin.com/comm/jobs/view/3849188463/?trackingId=3ldyaxeqKV%2BaWuKbd5ntVw%3D%3D&refId=ByteString%28length%3D16%2Cbytes%3D44e106de...bb32dd92%29&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BcI3u8I2YRKaoT47ixjSA7Q%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=2G5DcWTSebTb81&trk=eml-email_job_alert_digest_01-job_card-0-view_job&trkEmail=eml-email_job_alert_digest_01-job_card-0-view_job-null-fk339c~ltjd132y~lh-null-null&eid=fk339c-ltjd132y-lh&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VlYjA4YWNlZDI0MTlkYWI4ODYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjkwNjFjMWM0ZDc2Nzg2Y2M4ODIwNzNjYjZiYjNiMzk1M2VkMzkyNGE4NTg2ZWU1MywxLDE%3D
+
+---------------------------------------------------------
+  
+See all jobs on LinkedIn:  https://www.linkedin.com/comm/jobs/search?geoId=115702354&f_TPR=a1709858402-&savedSearchId=1740389338&origin=JOB_ALERT_EMAIL&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BcI3u8I2YRKaoT47ixjSA7Q%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=2G5DcWTSebTb81&trk=eml-email_job_alert_digest_01-job~alert-0-see~all~jobs~text&trkEmail=eml-email_job_alert_digest_01-job~alert-0-see~all~jobs~text-null-fk339c~ltjd132y~lh-null-null&eid=fk339c-ltjd132y-lh&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VlYjA4YWNlZDI0MTlkYWI4ODYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjkwNjFjMWM0ZDc2Nzg2Y2M4ODIwNzNjYjZiYjNiMzk1M2VkMzkyNGE4NTg2ZWU1MywxLDE%3D
+
+
+See jobs where you’re a top applicant
+https://www.linkedin.com/comm/premium/products/?utype=job&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BcI3u8I2YRKaoT47ixjSA7Q%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=2G5DcWTSebTb81&trk=eml-email_job_alert_digest_01-job~alert-0-premium~upsell~text&trkEmail=eml-email_job_alert_digest_01-job~alert-0-premium~upsell~text-null-fk339c~ltjd132y~lh-null-null&eid=fk339c-ltjd132y-lh&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VlYjA4YWNlZDI0MTlkYWI4ODYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjkwNjFjMWM0ZDc2Nzg2Y2M4ODIwNzNjYjZiYjNiMzk1M2VkMzkyNGE4NTg2ZWU1MywxLDE%3D
+  
+
+----------------------------------------
+
+This email was intended for kanya Bhatt (Software developer | Student at Dharmsinh Desai University | machine learning enthusiast)
+Learn why we included this: https://www.linkedin.com/help/linkedin/answer/4788?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BcI3u8I2YRKaoT47ixjSA7Q%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=2G5DcWTSebTb81&trk=eml-email_job_alert_digest_01-SecurityHelp-0-textfooterglimmer&trkEmail=eml-email_job_alert_digest_01-SecurityHelp-0-textfooterglimmer-null-fk339c~ltjd132y~lh-null-null&eid=fk339c-ltjd132y-lh&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VlYjA4YWNlZDI0MTlkYWI4ODYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjkwNjFjMWM0ZDc2Nzg2Y2M4ODIwNzNjYjZiYjNiMzk1M2VkMzkyNGE4NTg2ZWU1MywxLDE%3D
+You are receiving Job Alert emails.
+Manage your job alerts:  https://www.linkedin.com/comm/jobs/alerts?lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BcI3u8I2YRKaoT47ixjSA7Q%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=2G5DcWTSebTb81&trk=eml-email_job_alert_digest_01-null-0-null&trkEmail=eml-email_job_alert_digest_01-null-0-null-null-fk339c~ltjd132y~lh-null-null&eid=fk339c-ltjd132y-lh&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VlYjA4YWNlZDI0MTlkYWI4ODYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjkwNjFjMWM0ZDc2Nzg2Y2M4ODIwNzNjYjZiYjNiMzk1M2VkMzkyNGE4NTg2ZWU1MywxLDE%3D 
+Unsubscribe: https://www.linkedin.com/job-alert-email-unsubscribe?savedSearchId=1740389338&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BcI3u8I2YRKaoT47ixjSA7Q%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=2G5DcWTSebTb81&ek=email_job_alert_digest_01&e=fk339c-ltjd132y-lh&eid=fk339c-ltjd132y-lh&m=unsubscribe&ts=footerGlimmer&li=0&t=plh    ·  Help: https://www.linkedin.com/help/linkedin/answer/67?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BcI3u8I2YRKaoT47ixjSA7Q%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=2G5DcWTSebTb81&trk=eml-email_job_alert_digest_01-help-0-textfooterglimmer&trkEmail=eml-email_job_alert_digest_01-help-0-textfooterglimmer-null-fk339c~ltjd132y~lh-null-null&eid=fk339c-ltjd132y-lh&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VlYjA4YWNlZDI0MTlkYWI4ODYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjkwNjFjMWM0ZDc2Nzg2Y2M4ODIwNzNjYjZiYjNiMzk1M2VkMzkyNGE4NTg2ZWU1MywxLDE%3D
+
+© 2024 LinkedIn Corporation, 1zwnj000 West Maude Avenue, Sunnyvale, CA 94085.
+LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.
+
+SHEILDIFYFrom: 
+Flipkart <no-reply@ncp.flipkart.com>Subject: 
+Want a Better Life?Email: 
+Take Control, Upgrade Today!   
+             
+           
             
-                        <img 
-                src="https://d8it4huxumps7.cloudfront.net/uploads/images/newsletter-image/64febf4a7be59_newsletter.jpg?d=700x400" 
-                alt="" 
-                style="width: 100%; display: block; margin: 0; border-radius: 8px;"
-            >
-            </a>
-                                                                                                                            </td>
-                                                        </tr>
-                                                    
-
-                                                                                                        
-
-                                                                                                        
-
-                                                                                                        
-
-                                                                                                        
-
-                                                                                                        
-                                                                                                        
-
-                                                                                                        
-
-                                                                                                        
-
-
-                                                                                                        
-
-
-                                                                                                        
-                                                    
-                                                    
-                                                    
-                                                                                                    </tbody>
-                                            </table>
-
-                                                                                            <table style="max-width: 100%; min-width: 100%; border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0" align="left">
-                                                    <tbody>
-                                                        <tr>
-                                                            <td>
-                                                                <div class="h50" style="width: 100%; display: block; height: 30px;">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                                                                                                                                                                
-                                            <!-- HEADING OPTION  -->
-                                                                                                
-                                                        
-                                                                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width:100%;min-width:100%;border-collapse:collapse" width="100%">
-                                                                <tbody>
-                                                                    <tr>
-                                                                        <td class="pdng_lr" style="padding-left: 30px; padding-right: 30px; padding-bottom: 20px;">
-                                                                            <a
-                                                                                style="text-decoration: none; display: block; color: #455368; font-size: 20px; font-weight: 600; line-height: 100%;"
-                                                                                href="https://unstop.com/internships"
-                                                                            >
-                                                                                Internship Opportunities
-                                                                            </a>
-                                                                        </td>
-                                                                    </tr>
-                                                                </tbody>
-                                                            </table>
-                                                        
-                                                                                                                                                                                                <!-- HEADING OPTION  END -->
-
-                                            
-                                            <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width:100%;min-width:100%;border-collapse:collapse" width="100%">
-                                                <tbody>
-                                                                                                        
-
-                                                    
-
-                                                    
-
-                                                    
-
-                                                    
-
-                                                    
-                                                    
-                                                    
-
-                                                    
-
-                                                    
-
-                                                    
-
-                                                    
-
-                                                    
-                                                    
-                                                    
-
-                                                    
-
-                                                    
-
-                                                    
-
-                                                    
-
-                                                    
-                                                    
-                                                    
-
-                                                    
-
-                                                    
-
-                                                    
-
-                                                    
-
-                                                    
-                                                    
-                                                    
-
-                                                    
-
-                                                    
-
-                                                    
-
-                                                    
-
-                                                    
-                                                    
-                                                    
-                                                    
-
-                                                                                                        
-
-                                                                                                        
-
-                                                                                                                                                                <tr>
-                                                            <td class="pdng_lr" style="padding-left: 30px; padding-right: 30px;">
-                                                                <table style="max-width: 100%; min-width: 100%; border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0" align="left">
-                                                                    <tbody>
-                                                                                                                                                    <tr class="new_box">
-    <td valign="middle" width="80">
-        <a 
-            href="https://unstop.com/internships/technology-internship-moodys-corporation-878439"
-            style="height: 75px; display: flex; padding: 0; background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; background-image: url(https://d8it4huxumps7.cloudfront.net/uploads/images/6200b25da3f84_80x80.jpg); background-size: cover; background-repeat: repeat;"
-        >
-            <img 
-                src="https://d8it4huxumps7.cloudfront.net/uploads/images/75x75/65afa15fb644d_1280px-Moodys_logo.svg.png"
-                alt="Technology Internship"
-                height="auto"
-                style="width:auto;max-width: 65px; margin: auto;height:auto;display: block; max-height: 65px;"
-            >
-        </a>
-    </td>
-
-    <td class="cptn_box" style="padding: 0 15px; box-sizing: border-box;" valign="middle" width="430">
-        <h2 
-            class="h2_hover"
-            style="color: #101010; font-size: 14px; font-weight: 500; line-height: 125%;"
-        >
-            <a 
-                href="https://unstop.com/internships/technology-internship-moodys-corporation-878439"
-                style="color: inherit !important; text-decoration: none; display: block;"
-                target="_blank"
-            >
-                Technology Internship
-            </a>
-        </h2>
-
-                    <span 
-                class="p_hover"
-                style="font-size: 13px; color: #5a5a5a; line-height: 18px; display: block; margin-top: 2px;"
-            >
-                <a 
-                    href="https://unstop.com/internships/technology-internship-moodys-corporation-878439"
-                    style="color: inherit !important; text-decoration: none; display: block;"
-                    target="_blank"
-                >
-                    Moody's Corporation
-                </a>
-            </span>
+          
+         
+       
+       
+       
+       
+         
+          
+           
+           
+             
+                  
+                  
+                  
+                  
+             
+             
+              
+               
+               
+                 
+                 
+               
+                
+             
+           
+            
+          
+         
+       
         
-                            
-
-                    <div style="padding-top: 5px;" class="job_type">
-
-                                                
-                                                            <span style="font-size: 12px; font-weight: 500; color: #5a5a5a;  ">
-                            <strong style="color: #0073E6;">Salary:</strong> 
-                                                            INR
-                                                                                                                                                                                                    40k/month(via glassdoor)
-                        </span>
-                                                </div>
-            </td>
-
-    <td class="last_box" style="word-break:break-word; box-sizing: border-box;" valign="middle" width="130">
-        <a class="btn_hover"
-            href="https://unstop.com/internships/technology-internship-moodys-corporation-878439"
-            style="display: block; color: #1C4980; text-decoration: none; padding: 6px 12px; font-weight: 500; font-size: 13px; border: 1px solid #1C4980; border-radius: 5px; box-sizing: border-box; text-align: center;">
-            <span>
-                                                                    Apply now
-                                                    
-            </span>
-            <img 
-                src="https://d8it4huxumps7.cloudfront.net/uploads/images/61fb6557539f0_left_arrow_icon.png" 
-                alt=""
-                style="display: none;"
-            >
-        </a>
-    </td>
-</tr>
-
-
-
-                                                                                                                                                                                                                                <tr>
-        <td colspan="3" style="padding-bottom: 15px; padding-top: 15px;">
-            <div style="width: 100%; display: block; border-top: 1px solid #e7e7e7; height: 1px;"></div>
-        </td>
-    </tr>
-
-<tr class="new_box">
-    <td valign="middle" width="80">
-        <a 
-            href="https://unstop.com/internships/data-analyst-internship-ge-renewable-energy-866439"
-            style="height: 75px; display: flex; padding: 0; background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; background-image: url(https://d8it4huxumps7.cloudfront.net/uploads/images/6200b25da3f84_80x80.jpg); background-size: cover; background-repeat: repeat;"
-        >
-            <img 
-                src="https://d8it4huxumps7.cloudfront.net/uploads/images/75x75/uploadedManual-65a110368aa36_download__9_.png"
-                alt="Data Analyst Internship"
-                height="auto"
-                style="width:auto;max-width: 65px; margin: auto;height:auto;display: block; max-height: 65px;"
-            >
-        </a>
-    </td>
-
-    <td class="cptn_box" style="padding: 0 15px; box-sizing: border-box;" valign="middle" width="430">
-        <h2 
-            class="h2_hover"
-            style="color: #101010; font-size: 14px; font-weight: 500; line-height: 125%;"
-        >
-            <a 
-                href="https://unstop.com/internships/data-analyst-internship-ge-renewable-energy-866439"
-                style="color: inherit !important; text-decoration: none; display: block;"
-                target="_blank"
-            >
-                Data Analyst Internship
-            </a>
-        </h2>
-
-                    <span 
-                class="p_hover"
-                style="font-size: 13px; color: #5a5a5a; line-height: 18px; display: block; margin-top: 2px;"
-            >
-                <a 
-                    href="https://unstop.com/internships/data-analyst-internship-ge-renewable-energy-866439"
-                    style="color: inherit !important; text-decoration: none; display: block;"
-                    target="_blank"
-                >
-                    GE Renewable Energy
-                </a>
-            </span>
+      
+     
+   
+   
+   
+   
+     
+      
+       
+       
         
-                            
-
-                    <div style="padding-top: 5px;" class="job_type">
-
-                                                
-                                                            <span style="font-size: 12px; font-weight: 500; color: #5a5a5a;  ">
-                            <strong style="color: #0073E6;">Salary:</strong> 
-                                                            INR
-                                                                                                                                                                                                    25k/month(via glassdoor)
-                        </span>
-                                                </div>
-            </td>
-
-    <td class="last_box" style="word-break:break-word; box-sizing: border-box;" valign="middle" width="130">
-        <a class="btn_hover"
-            href="https://unstop.com/internships/data-analyst-internship-ge-renewable-energy-866439"
-            style="display: block; color: #1C4980; text-decoration: none; padding: 6px 12px; font-weight: 500; font-size: 13px; border: 1px solid #1C4980; border-radius: 5px; box-sizing: border-box; text-align: center;">
-            <span>
-                                                                    Apply now
-                                                    
-            </span>
-            <img 
-                src="https://d8it4huxumps7.cloudfront.net/uploads/images/61fb6557539f0_left_arrow_icon.png" 
-                alt=""
-                style="display: none;"
-            >
-        </a>
-    </td>
-</tr>
-
-
-
-                                                                                                                                                                                                                                <tr>
-        <td colspan="3" style="padding-bottom: 15px; padding-top: 15px;">
-            <div style="width: 100%; display: block; border-top: 1px solid #e7e7e7; height: 1px;"></div>
-        </td>
-    </tr>
-
-<tr class="new_box">
-    <td valign="middle" width="80">
-        <a 
-            href="https://unstop.com/internships/software-development-internship-red-baton-877849"
-            style="height: 75px; display: flex; padding: 0; background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; background-image: url(https://d8it4huxumps7.cloudfront.net/uploads/images/6200b25da3f84_80x80.jpg); background-size: cover; background-repeat: repeat;"
-        >
-            <img 
-                src="https://d8it4huxumps7.cloudfront.net/uploads/images/75x75/uploadedManual-65aea39521034_redbaton_logo.jpg"
-                alt="Software Development Internship"
-                height="auto"
-                style="width:auto;max-width: 65px; margin: auto;height:auto;display: block; max-height: 65px;"
-            >
-        </a>
-    </td>
-
-    <td class="cptn_box" style="padding: 0 15px; box-sizing: border-box;" valign="middle" width="430">
-        <h2 
-            class="h2_hover"
-            style="color: #101010; font-size: 14px; font-weight: 500; line-height: 125%;"
-        >
-            <a 
-                href="https://unstop.com/internships/software-development-internship-red-baton-877849"
-                style="color: inherit !important; text-decoration: none; display: block;"
-                target="_blank"
-            >
-                Software Development Internship
-            </a>
-        </h2>
-
-                    <span 
-                class="p_hover"
-                style="font-size: 13px; color: #5a5a5a; line-height: 18px; display: block; margin-top: 2px;"
-            >
-                <a 
-                    href="https://unstop.com/internships/software-development-internship-red-baton-877849"
-                    style="color: inherit !important; text-decoration: none; display: block;"
-                    target="_blank"
-                >
-                    Red Baton
-                </a>
-            </span>
+         
+              
+         
         
-                            
-
-                    <div style="padding-top: 5px;" class="job_type">
-
-                                                
-                                                            <span style="font-size: 12px; font-weight: 500; color: #5a5a5a;  ">
-                            <strong style="color: #0073E6;">Salary:</strong> 
-                                                            INR
-                                                                                                                                                                                                    20k/month(via glassdoor)
-                        </span>
-                                                </div>
-            </td>
-
-    <td class="last_box" style="word-break:break-word; box-sizing: border-box;" valign="middle" width="130">
-        <a class="btn_hover"
-            href="https://unstop.com/internships/software-development-internship-red-baton-877849"
-            style="display: block; color: #1C4980; text-decoration: none; padding: 6px 12px; font-weight: 500; font-size: 13px; border: 1px solid #1C4980; border-radius: 5px; box-sizing: border-box; text-align: center;">
-            <span>
-                                                                    Apply now
-                                                    
-            </span>
-            <img 
-                src="https://d8it4huxumps7.cloudfront.net/uploads/images/61fb6557539f0_left_arrow_icon.png" 
-                alt=""
-                style="display: none;"
-            >
-        </a>
-    </td>
-</tr>
-
-
-
-                                                                                                                                                                                                                                <tr>
-        <td colspan="3" style="padding-bottom: 15px; padding-top: 15px;">
-            <div style="width: 100%; display: block; border-top: 1px solid #e7e7e7; height: 1px;"></div>
-        </td>
-    </tr>
-
-<tr class="new_box">
-    <td valign="middle" width="80">
-        <a 
-            href="https://unstop.com/internships/hardware-engineer-internship-parinata-music-services-pvt-ltd-877156"
-            style="height: 75px; display: flex; padding: 0; background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; background-image: url(https://d8it4huxumps7.cloudfront.net/uploads/images/6200b25da3f84_80x80.jpg); background-size: cover; background-repeat: repeat;"
-        >
-            <img 
-                src="https://d8it4huxumps7.cloudfront.net/uploads/images/75x75/uploadedManual-65ae01c10c0a8_internship.jpg"
-                alt="Hardware Engineer Internship"
-                height="auto"
-                style="width:auto;max-width: 65px; margin: auto;height:auto;display: block; max-height: 65px;"
-            >
-        </a>
-    </td>
-
-    <td class="cptn_box" style="padding: 0 15px; box-sizing: border-box;" valign="middle" width="430">
-        <h2 
-            class="h2_hover"
-            style="color: #101010; font-size: 14px; font-weight: 500; line-height: 125%;"
-        >
-            <a 
-                href="https://unstop.com/internships/hardware-engineer-internship-parinata-music-services-pvt-ltd-877156"
-                style="color: inherit !important; text-decoration: none; display: block;"
-                target="_blank"
-            >
-                Hardware Engineer Internship
-            </a>
-        </h2>
-
-                    <span 
-                class="p_hover"
-                style="font-size: 13px; color: #5a5a5a; line-height: 18px; display: block; margin-top: 2px;"
-            >
-                <a 
-                    href="https://unstop.com/internships/hardware-engineer-internship-parinata-music-services-pvt-ltd-877156"
-                    style="color: inherit !important; text-decoration: none; display: block;"
-                    target="_blank"
-                >
-                    Parinata Music Services Pvt Ltd
-                </a>
-            </span>
         
-                            
-
-                    <div style="padding-top: 5px;" class="job_type">
-
-                                                
-                                                            <span style="font-size: 12px; font-weight: 500; color: #5a5a5a;  ">
-                            <strong style="color: #0073E6;">Salary:</strong> 
-                                                            INR
-                                                                                                                                                                                                    10k/month
-                        </span>
-                                                </div>
-            </td>
-
-    <td class="last_box" style="word-break:break-word; box-sizing: border-box;" valign="middle" width="130">
-        <a class="btn_hover"
-            href="https://unstop.com/internships/hardware-engineer-internship-parinata-music-services-pvt-ltd-877156"
-            style="display: block; color: #1C4980; text-decoration: none; padding: 6px 12px; font-weight: 500; font-size: 13px; border: 1px solid #1C4980; border-radius: 5px; box-sizing: border-box; text-align: center;">
-            <span>
-                                                                    Apply now
-                                                    
-            </span>
-            <img 
-                src="https://d8it4huxumps7.cloudfront.net/uploads/images/61fb6557539f0_left_arrow_icon.png" 
-                alt=""
-                style="display: none;"
-            >
-        </a>
-    </td>
-</tr>
-
-
-
-                                                                                                                                                                                                                                <tr>
-        <td colspan="3" style="padding-bottom: 15px; padding-top: 15px;">
-            <div style="width: 100%; display: block; border-top: 1px solid #e7e7e7; height: 1px;"></div>
-        </td>
-    </tr>
-
-<tr class="new_box">
-    <td valign="middle" width="80">
-        <a 
-            href="https://unstop.com/jobs/civil-engineering-internship-realty-clarity-869200"
-            style="height: 75px; display: flex; padding: 0; background-color: #ffffff; border: 1px solid #ddd; border-radius: 8px; background-image: url(https://d8it4huxumps7.cloudfront.net/uploads/images/6200b25da3f84_80x80.jpg); background-size: cover; background-repeat: repeat;"
-        >
-            <img 
-                src="https://d8it4huxumps7.cloudfront.net/uploads/images/75x75/65a62ebb03b4d_organisation_image-BUlxWTi3nG709404730uHonrcrCJT.png"
-                alt="Civil Engineering Internship"
-                height="auto"
-                style="width:auto;max-width: 65px; margin: auto;height:auto;display: block; max-height: 65px;"
-            >
-        </a>
-    </td>
-
-    <td class="cptn_box" style="padding: 0 15px; box-sizing: border-box;" valign="middle" width="430">
-        <h2 
-            class="h2_hover"
-            style="color: #101010; font-size: 14px; font-weight: 500; line-height: 125%;"
-        >
-            <a 
-                href="https://unstop.com/jobs/civil-engineering-internship-realty-clarity-869200"
-                style="color: inherit !important; text-decoration: none; display: block;"
-                target="_blank"
-            >
-                Civil Engineering Internship
-            </a>
-        </h2>
-
-                    <span 
-                class="p_hover"
-                style="font-size: 13px; color: #5a5a5a; line-height: 18px; display: block; margin-top: 2px;"
-            >
-                <a 
-                    href="https://unstop.com/jobs/civil-engineering-internship-realty-clarity-869200"
-                    style="color: inherit !important; text-decoration: none; display: block;"
-                    target="_blank"
-                >
-                    Realty Clarity
-                </a>
-            </span>
+     
+     
+      
+       
+       
         
-                            
-
-                    <div style="padding-top: 5px;" class="job_type">
-
-                                                
-                                                            <span style="font-size: 12px; font-weight: 500; color: #5a5a5a;  ">
-                            <strong style="color: #0073E6;">Salary:</strong> 
-                                                            INR
-                                                                                                                                                                                                    5k/month
-                        </span>
-                                                </div>
-            </td>
-
-    <td class="last_box" style="word-break:break-word; box-sizing: border-box;" valign="middle" width="130">
-        <a class="btn_hover"
-            href="https://unstop.com/jobs/civil-engineering-internship-realty-clarity-869200"
-            style="display: block; color: #1C4980; text-decoration: none; padding: 6px 12px; font-weight: 500; font-size: 13px; border: 1px solid #1C4980; border-radius: 5px; box-sizing: border-box; text-align: center;">
-            <span>
-                                                                    Apply now
-                                                    
-            </span>
-            <img 
-                src="https://d8it4huxumps7.cloudfront.net/uploads/images/61fb6557539f0_left_arrow_icon.png" 
-                alt=""
-                style="display: none;"
-            >
-        </a>
-    </td>
-</tr>
-
-
-
-                                                                                                                                                    
-                                                                                                                                                <tr>
-                                                                            <td colspan="3" style="padding-top: 30px; text-align: center;">
-                                                                                                                                                                    <a
-                                                                                        style="box-sizing: border-box; display: inline-block; background: #1C4980; color: #fff; padding: 10px 30px; border-radius: 8px; font-size: 14px; font-weight: 500; box-sizing: border-box;"
-                                                                                        href="https://unstop.com/internships"
-                                                                                        target="_blank"
-                                                                                        rel="noopener"
-                                                                                    >
-                                                                                        See More Opportunities
-                                                                                    </a>
-                                                                                                                                                            </td>
-                                                                        </tr>
-                                                                        
-                                                                    </tbody>
-                                                                </table>
-                                                            </td>
-                                                        </tr>
-                                                    
-
-                                                                                                        
-
-                                                                                                        
-                                                                                                        
-
-                                                                                                        
-
-                                                                                                        
-
-
-                                                                                                        
-
-
-                                                                                                        
-                                                    
-                                                    
-                                                    
-                                                                                                    </tbody>
-                                            </table>
-
-                                                                                            <table style="max-width: 100%; min-width: 100%; border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0" align="left">
-                                                    <tbody>
-                                                        <tr>
-                                                            <td>
-                                                                <div class="h50" style="width: 100%; display: block; height: 30px;">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                                                                                                                </td>
-                                    </tr>
-
-                                    <!-- Footer Option 1 -->
-                                                                            <tr>
-                                            <td class="footer" style="padding: 30px; background-color: #ffffff; border-top: 1px solid #e7e7e7; border-radius: 0 0 8px 8px;">
-                                                <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 100%; min-width: 100%; border-collapse: collapse;">
-                                                    <tbody>
-                                                                                                                <tr>
-                                                            <td class="tags" style="padding-bottom: 20px; text-align: center;">
-                                                                                                                                    <a
-                                                                        href="https://dare2compete.com/jobs"
-                                                                        rel="noopener"
-                                                                        target="_blank"
-                                                                        style="text-decoration: none; display: inline-block; padding: 8px 20px; border-radius: 8px; font-weight: 500; margin: 3px; font-size: 13px; color: #1C4980; background: #e4e8ee;"
-                                                                    >
-                                                                        Jobs
-                                                                    </a>
-                                                                                                                                    <a
-                                                                        href="https://dare2compete.com/scholarships"
-                                                                        rel="noopener"
-                                                                        target="_blank"
-                                                                        style="text-decoration: none; display: inline-block; padding: 8px 20px; border-radius: 8px; font-weight: 500; margin: 3px; font-size: 13px; color: #1C4980; background: #e4e8ee;"
-                                                                    >
-                                                                        Scholarships
-                                                                    </a>
-                                                                                                                                    <a
-                                                                        href="https://dare2compete.com/courses/home"
-                                                                        rel="noopener"
-                                                                        target="_blank"
-                                                                        style="text-decoration: none; display: inline-block; padding: 8px 20px; border-radius: 8px; font-weight: 500; margin: 3px; font-size: 13px; color: #1C4980; background: #e4e8ee;"
-                                                                    >
-                                                                        Courses
-                                                                    </a>
-                                                                                                                                    <a
-                                                                        href="https://unstop.com/hiring-challenges"
-                                                                        rel="noopener"
-                                                                        target="_blank"
-                                                                        style="text-decoration: none; display: inline-block; padding: 8px 20px; border-radius: 8px; font-weight: 500; margin: 3px; font-size: 13px; color: #1C4980; background: #e4e8ee;"
-                                                                    >
-                                                                        Hiring Challenges
-                                                                    </a>
-                                                                                                                            </td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td class="updated" style="padding-bottom: 15px;">
-                                                                <table style="width: 100%;">
-                                                                    <tbody>
-                                                                        <tr>
-                                                                            <td style="width: 440px; box-sizing: border-box;" valign="top">
-                                                                                <span
-                                                                                    style="color: #000; display: block; font-size: 14px; font-weight: 500; padding-bottom: 10px; text-align: center; width: 275px;">
-                                                                                    Stay updated
-                                                                                </span>
-                                                                                <div>
-                                                                                    <a
-                                                                                        href="https://play.google.com/store/apps/details?id=com.dare2compete.app"
-                                                                                        style="display: inline-block; text-decoration: none; margin-right: 10px;"
-                                                                                        target="_blank"
-                                                                                    >
-                                                                                        <img
-                                                                                            style="width: 130px; display: inline-block; vertical-align: middle;"
-                                                                                            src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/google-play.png"
-                                                                                            alt="Google play"
-                                                                                        />
-                                                                                    </a>
-
-                                                                                    <a
-                                                                                        href="https://apps.apple.com/in/app/unstop-formerly-dare2compete/id1601170365"
-                                                                                        target="_blank"
-                                                                                        rel="noopener noreferrer nofollow"
-                                                                                        class="gtm_play_store_btn"
-                                                                                        style="display: inline-block; text-decoration: none;"
-                                                                                    >
-                                                                                        <img
-                                                                                            style="width: 130px; display: inline-block; vertical-align: middle;"
-                                                                                            src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/app-store.png"
-                                                                                            alt="Unstop app logo"
-                                                                                        />
-                                                                                    </a>
-                                                                                </div>
-                                                                            </td>
-
-                                                                            <td style="width: 190px; box-sizing: border-box; text-align: right;" valign="top">
-                                                                                <span style="color: #000; display: block; font-size: 14px; font-weight: 500; padding-bottom: 10px; text-align: center;">
-                                                                                    Connect with us
-                                                                                </span>
-                                                                                <div style="text-align: center;">
-                                                                                    <a href="https://www.instagram.com/unstop.world/" style="display: inline-block; text-decoration: none;" target="_blank">
-                                                                                        <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/sharing-icon/instagram-icon.png" alt="Instagram Icon" style="width: 38px;">
-                                                                                    </a>
-
-                                                                                    <a href="https://www.linkedin.com/company/unstop/" style="display: inline-block; text-decoration: none; margin-left: 5px;" target="_blank">
-                                                                                        <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/sharing-icon/linkedin-icon.png" alt="Linkedin Icon" style="width: 38px;">
-                                                                                    </a>
-
-                                                                                    <a href="https://t.me/+ON15qceSy-IyZjY9" style="display: inline-block; text-decoration: none; margin-left: 5px;" target="_blank">
-                                                                                        <img
-                                                                                            src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/sharing-icon/telegram-icon.png"
-                                                                                            alt="Telegram Icon"
-                                                                                            style="width: 38px;"
-                                                                                        >
-                                                                                    </a>
-                                                                                    <a href="https://discord.com/invite/DvYWXNr4yR" style="display: inline-block; text-decoration: none; margin-left: 5px;" target="_blank">
-                                                                                        <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/sharing-icon/discord-icon.png" alt="discord Icon" style="width: 38px;">
-                                                                                    </a>
-                                                                                </div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </tbody>
-                                                                </table>
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td style="color: #000; font-size: 12px; text-align: center; font-weight: 500;">
-                                                                &copy; 2024 <a href="https://unstop.com/" style="text-decoration: none; color: #000;">Unstop</a>. All rights
-                                                                reserved.
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td style="color: #101010; font-size: 12px; text-align: center;">
-                                                                <a href="https://unstop.com/newsletter-unsubscribe/MjFjZXVvbjE0OEBkZHUuYWMuaW4="  style="font-size: 12px; color: #101010;">Unsubscribe</a>
-                                                                | <a href="mailto:support@unstop.com" style="color: #101010; text-decoration: none;">Helpdesk</a>
-                                                            </td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                            </td>
-                                        </tr>
-                                    
-                                    <!-- Footer Option 3 -->
-                                    
-                                    <!-- Footer Option 4 -->
-                                                                    </tbody>
-                            </table>
-                        </td>
-                    </tr>
-
-                    <!-- Footer Option 2 -->
+         
+              
+              
+         
+        
+        
+     
+     
+      
+       
+       
+        
+         
+              
+              
+         
+        
+        
+     
+     
+      
+       
+       
+        
+         
+              
+              
+         
+        
+        
+     
+     
+      
+       
+       
+        
+         
+              
+              
+         
+        
+        
+     
+     
+      
+       
+       
+        
+         
+              
+              
+         
+        
+        
+     
+   
+   
+   
+   
+   
+   
+   
+   
+     
+      
+          
+      
+       
+       
+         
                     
-                </tbody>
-            </table>
-        </div>
-    </body>
-</html>
+         
+       
+       
+       
+       
+         
+           We hope you enjoy emails from Flipkart. If you wish to unsubscribe, please click here .
 
-Notification settings  
-<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s&Email=21ceuon148@ddu.ac.in>
-WSD_2023  
-<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/c/NTkwOTgwMjc5MzYx&Email=21ceuon148@ddu.ac.in>
-Due tomorrow
+SHEILDIFYFrom: 
+Medium <hello@medium.com>Subject: 
+The Edition: Celebrating International Women’s DayEmail: 
+"The more you do and say as a champion for women, the more you learn to do and say things better. This is not a zero-sum game."
 
-Lab-06 Use of Data Contract in WCF service.
-1) Create a new calculator WCF service which supports addition and  
-subtraction of complex numbers (real and imaginary fields).
-2) Use Data Contract for complex number class.
-3) Host the service in the Windows Form application. Define metadata and
-application endpoints over TCP protocol in the host application.
-4) Develop a Windows Form client application to consume the calculator  
-service.
-5) Include code, config file of service, host and client in the assignment
-(Don't take the screenshots, copy the code from Visual studio to document
-file). Also keep the output screenshots of the client application.
-6) Upload PDF document with file name as per the format :  
-LabNo_RollNo_Studentname.pdf  (e.g. Lab05_CE001_StudentName.pdf)
-Due Jan 24
-View assignment  
-<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/c/NTkwOTgwMjc5MzYx/a/NjQ3MTkyNzI0ODYx/submissions/by-status/and-sort-last-name/all&Email=21ceuon148@ddu.ac.in>
+Unlock every story on Medium and directly support the writers you read most when you become a member. *Join Medium* ( https://medium.com/plans?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 )
 
-Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA
-This email was sent to you because you indicated that you'd like to receive  
-email notifications from Google Classroom. If you don't want to receive  
-emails like this, you can unsubscribe or change your settings  
-<https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s&Email=21ceuon148@ddu.ac.in>.
-Grammarly You used more of them than 92% of our users, to be exact. 
+( http://medium.com?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 )
 
+Medium's weekly newsletter  -  March 8, 2024
 
+Hi everybody,
 
+Long before Beyoncé became a country star, she wrote a song called “(Who) Run the World? Girls.” Released in 2011, it exploded beyond the radio and became the kind of song you might hear this weekend if you attend any number of breakfasts, brunches, or awards dinners in celebration of International Women’s Day.
 
- <https://www.grammarly.com> 
+Writers across Medium are using the occasion to highlight the power and triumph of women.
 
+* Aradhana Khowala, the chair of Red Sea Global, argues that men ought to step up for women this IWD ( https://medium.com/p/704768a71140?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 ) : "Overcome your fear of saying and doing the wrong thing. The more you do and say as a champion for women, the more you learn to do and say things better. This is not a 'zero-sum game.'"
+* The UK's official Science and Technology Facilities Council highlights three women in science, including one who 3-D envisions and hand-sews blankets to protect space satellites ( https://medium.com/p/e474f5b4d46d?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 ). (Her name is Angela Ashgill.)
+* The CEO of Panorama, Gabrielle Fitzgerald, asks us to consider a world where fewer leaders are named John ( https://medium.com/p/f4af56a38530?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 ).
+* Scot Butwell reviews a book detailing the history of an American women’s National Football League ( https://medium.com/p/876a73d7f6bd?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 ).
 
+Gender equality is a hot button issue on every continent. If you write about it, please let me know. Medium is all about dialogue. How do you personally move the conversation forward?
 
-January 15 - January 21 
+Thanks for reading and writing.
+Adrienne ( https://adrienne.medium.com/?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 ) , Director of Content @ Medium
 
+*What We're Reading*
 
-Your Weekly Writing Update 
+Story picture ( https://medium.com/p/c9d9610b50dd?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 )
 
-Did you know that you used more unique words than 92% of Grammarly users? 
-Check it out, and keep up the great work! 
+Diving into Cybersecurity Management — Part One ( https://medium.com/p/c9d9610b50dd?source=mktgemail-c71cce8f227f--edition-------------------------aff0268a_dcec_11ee_9139_a675c4ee0878 )
 
+My journey into management when I felt I might be at rock bottom in my career
 
+*Published by* *Katlyn Gallo* ( https://katlyngallo.medium.com/?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 ) *in* *Dark Roast Security* ( https://medium.com/dark-roast-security?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 )
 
+Story picture ( https://medium.com/p/9f47a5c3fea1?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 )
 
+Diversity Theater: Unmasking Tech’s Hollow DEI Commitments ( https://medium.com/p/9f47a5c3fea1?source=mktgemail-c71cce8f227f--edition-------------------------aff0268a_dcec_11ee_9139_a675c4ee0878 )
 
+Tangible solutions for creating a diverse tech landscape
 
+*Published by* *Neela Singh* ( https://medium.com/@neelasingh?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 ) *in* *Code Like A Girl* ( https://code.likeagirl.io/?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 )
 
-Grammarly writing streak 
+Story picture ( https://medium.com/p/791312b52dc2?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 )
 
-7 weeks 
+I’m Going “Mansober” for March ( https://medium.com/p/791312b52dc2?source=mktgemail-c71cce8f227f--edition-------------------------aff0268a_dcec_11ee_9139_a675c4ee0878 )
 
+Taking a dating break by taking “Boysober” up a notch.
 
-52 
-Next Achievement 
+*Published by* *Dana DuBois* ( https://medium.com/@allmylittlewords?source=mktgemail-c71cce8f227f--edition-------------------------aff0268a_dcec_11ee_9139_a675c4ee0878 ) *in* *Age of Empathy* ( https://medium.com/age-of-empathy?source=mktgemail-c71cce8f227f--edition-------------------------aff0268a_dcec_11ee_9139_a675c4ee0878 )
 
+* *Teaching teens* how to identify and fight back against gaslighting is the topic of Dr. Robin Stern’s latest piece ( https://medium.com/p/10fe043d0e50?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 ). Dr. Stern, who is also the co-founder and Associate Director of the Yale Center for Emotional Intelligence, interviews a high school senior who says this: "My friends and I push the boundaries—we all want more independence and power to make decisions. This is often when I have seen gaslighting come in. Gaslighting happens in a power dynamic in which one person (our parent!) asserts their dominance—and, we teens can find ourselves either the gaslightee or gaslighter."
+* *If you need some respite* from being gaslit, perhaps try your hand at a Lego garden ( https://medium.com/p/2d09bed01a60?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 ) ? Brick aficionado Attila Vágó goes deep in this review of the latest Botanical collection. "The plants are where the parts' usage gets really interesting, though. Purple butterflies, red shells and horns and green mining caps are just the beginning. Pink epaulettes, light-green safari hats and brooms, dark-red brushes and even cogs are used to achieve some pretty impressive brick-built plant designs."
 
+Today’s Final Word goes to Osi I ( https://medium.com/@oiroegbu?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 ) , publishing in Fourth Wave ( https://medium.com/fourth-wave?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 ) about civil rights icon Claudette Colvin ( https://medium.com/p/7808e5f31c74?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 ) , whose name is often overshadowed by Rosa Parks. Nine months prior to the well known Montgomery Bus Boycott, Colvin refused to give her bus seat to a white passenger, and the 15-year-old was beaten and arrested for it.
 
+“Her name was Claudette Colvin. The day was March 2, 1955. School had let out early and she and a couple of friends had hopped on the segregated Montgomery, Alabama public bus system to head home. As usual, when white people boarded, the Black passengers at the front of the bus had to move to the rear, or stand.
 
+A young white woman got on the bus and Colvin and her friends, who were seated in a row, were told to move to the back and stand so that she could sit….”
 
- Productivity
+Colvin didn't move.
 
-You were more productive than 
-70% of Grammarly users.
-6,689
-words analyzed
+Read the rest of the story here ( https://medium.com/p/7808e5f31c74?source=mktgemail-c71cce8f227f--edition.user-------------------------b3237c6f-dd33-11ee-ade8-ae72fc3af717 ).
 
+Take Medium with you. Download the app.
 
+Apple Store ( https://apps.apple.com/us/app/medium-read-write-stories/id828256236?source=mktgemail-c71cce8f227f--edition.user )
 
+Google Play Store ( https://play.google.com/store/apps/details?id=com.medium.reader&source=mktgemail-c71cce8f227f--edition.user )
 
+Sent by Medium ( https://medium.com?source=mktgemail-c71cce8f227f--edition.user ) - 548 Market St, PMB 42061, San Francisco, CA 94104
+Unsubscribe ( https://medium.com/me/email-settings/c71cce8f227f/dVrKQFeKQXXCkGO5l-wjNEOBORUjL3J5Y-KBd1kzCsQ*?source=mktgemail-c71cce8f227f--edition.user&type=topicDigest ) - Help center ( https://help.medium.com?source=mktgemail-c71cce8f227f--edition.user ) - Privacy policy ( https://medium.com/policy/f03bf92035c9?source=mktgemail-c71cce8f227f--edition.user )
 
+SHEILDIFYFrom: 
+LinkedIn <messages-noreply@linkedin.com>Subject: 
+kanya, you’re getting noticedEmail: 
+Your profile is looking great
 
+Your work and accomplishments are being recognized
 
+49 profile views
+  
+          https://www.linkedin.com/comm/me/profile-views?lipi=urn%3Ali%3Apage%3Aemail_b2_professional_identity_digest_02%3BTQEGQNX5QG%2BPeRnVeAYtew%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=1Ckw-J9fTOSr81&trk=eml-b2_professional_identity_digest_02-email~professional~identity~digest-0-profile~views&trkEmail=eml-b2_professional_identity_digest_02-email~professional~identity~digest-0-profile~views-null-fk339c~ltip8lwy~1d-null-null&eid=fk339c-ltip8lwy-1d&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VlYjQ4YWNmZDI0ODljYWE4NzYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmUwNTNlY2MyZGE2ZjllYzNkZDA4ODNlMzAxMTkyM2MzYTIxMmQzNzE4MTZiOWRmYywxLDE%3D
 
+----------------------------------------
 
+This email was intended for kanya Bhatt (Software developer | Student at Dharmsinh Desai University | machine learning enthusiast)
+Learn why we included this: https://www.linkedin.com/help/linkedin/answer/4788?lang=en&lipi=urn%3Ali%3Apage%3Aemail_b2_professional_identity_digest_02%3BTQEGQNX5QG%2BPeRnVeAYtew%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=1Ckw-J9fTOSr81&trk=eml-b2_professional_identity_digest_02-SecurityHelp-0-textfooterglimmer&trkEmail=eml-b2_professional_identity_digest_02-SecurityHelp-0-textfooterglimmer-null-fk339c~ltip8lwy~1d-null-null&eid=fk339c-ltip8lwy-1d&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VlYjQ4YWNmZDI0ODljYWE4NzYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmUwNTNlY2MyZGE2ZjllYzNkZDA4ODNlMzAxMTkyM2MzYTIxMmQzNzE4MTZiOWRmYywxLDE%3D
+You are receiving LinkedIn notification emails.
 
+Unsubscribe: https://www.linkedin.com/comm/psettings/email-unsubscribe?lipi=urn%3Ali%3Apage%3Aemail_b2_professional_identity_digest_02%3BTQEGQNX5QG%2BPeRnVeAYtew%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=1Ckw-J9fTOSr81&trk=eml-b2_professional_identity_digest_02-unsubscribe-0-textfooterglimmer&trkEmail=eml-b2_professional_identity_digest_02-unsubscribe-0-textfooterglimmer-null-fk339c~ltip8lwy~1d-null-null&eid=fk339c-ltip8lwy-1d&loid=AQH0soRId4rgVAAAAY4eSbA52fwVDLjxhQ6bKZISvKl64wtueTlFlEHcQvcNZMdxvCbduZx43UejQB5Tn4RBWw2Y9Y4V613tPoXd6zR9DpWh
+Help: https://www.linkedin.com/help/linkedin/answer/67?lang=en&lipi=urn%3Ali%3Apage%3Aemail_b2_professional_identity_digest_02%3BTQEGQNX5QG%2BPeRnVeAYtew%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=1Ckw-J9fTOSr81&trk=eml-b2_professional_identity_digest_02-help-0-textfooterglimmer&trkEmail=eml-b2_professional_identity_digest_02-help-0-textfooterglimmer-null-fk339c~ltip8lwy~1d-null-null&eid=fk339c-ltip8lwy-1d&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VlYjQ4YWNmZDI0ODljYWE4NzYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmUwNTNlY2MyZGE2ZjllYzNkZDA4ODNlMzAxMTkyM2MzYTIxMmQzNzE4MTZiOWRmYywxLDE%3D
 
+© 2024 LinkedIn Corporation, 1zwnj000 West Maude Avenue, Sunnyvale, CA 94085.
+LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.
 
+SHEILDIFYFrom: 
+Internshala <student@internshala.com>Subject: 
+Top internships of the week matching your profileEmail: 
+Kanya, earn high stipend in your preferred field and location. Apply for
+free on Internshala
+ ‌ ‌ ‌ ‌ ‌ ‌&nb
+sp;‌ ‌ ‌ ‌ 
+  ‌ ‌ ‌ ‌ ‌ ‌&n
+bsp;‌ ‌ ‌ ‌ 
+  ‌ ‌ ‌ ‌ ‌ ‌&n
+bsp;‌ ‌ ‌ ‌ 
+  ‌ ‌ ‌ ‌ ‌ ‌&n
+bsp;‌ ‌ ‌ ‌ 
+  ‌ ‌ ‌ ‌ ‌ ‌&n
+bsp;‌ ‌ ‌ ‌ 
+  ‌ ‌ ‌ ‌ ‌ ‌&n
+bsp;‌ ‌ ‌ ‌ 
+  ‌ ‌ ‌ ‌ ‌ ‌&n
+bsp;‌ ‌ ‌ ‌ 
+  ‌ ‌ ‌ ‌ ‌ ‌&n
+bsp;‌ ‌ ‌ ‌ 
+  ‌ ‌ ‌ ‌ ‌ ‌&n
+bsp;‌ ‌ ‌ ‌ 
+  ‌ ‌ ‌ ‌ ‌ ‌&n
+bsp;‌ ‌ ‌ ‌ 
 
 
 
 
 
-Dec 3107Jan 1421
+ Hi Kanya,
+ Here are some of the latest opportunities matching your preferences. Apply
+now!
 
 
 
 
 
-Mastery
+ Actively hiring
 
-You were more accurate than 
-37% of Grammarly users.
-112
-alerts shown
 
 
 
 
+ Social Media Marketing
 
 
 
 
 
 
+ Templatolio
 
 
 
 
 
+ Work From Home
 
 
-Dec 3107Jan 1421
+ 3 months
 
 
+ ₹15,000 /month
 
 
 
- vocabulary 
 
-You used more unique words than 
-92% of Grammarly users. 
-3,439 
- unique words used 
 
 
 
 
 
+ Today
 
 
 
 
 
+ Internship with job offer
+ Apply now
 
 
 
@@ -1402,54 +577,35 @@ You used more unique words than
 
 
 
-Dec 3107Jan 1421
+ Actively hiring
 
 
 
 
- <> 
 
-TONE 
+ Social Media Marketing
 
-Some of the tones that were detected in your writing last week: 
 
 
 
 
-1. Confident 
 
-33‌% 
-+10% 
 
-2. Informative 
+ XpertHunt
 
-27‌% 
-+27% 
 
-3. Direct 
 
-13‌% 
-+6% 
 
-4. Informal 
 
-13‌% 
--2% 
+ Bangalore
 
-5. Friendly 
 
-8‌% 
-+8% 
+ 6 months
 
-6. Assertive 
 
-2‌% 
-+2% 
+ ₹10,000-20,000 /month
 
-7. Curious 
 
-2‌% 
-+2% 
 
 
 
@@ -1457,137 +613,1612 @@ Some of the tones that were detected in your writing last week:
 
 
 
-WORDS ANALYZED WITH GRAMMARLY OVER TIME 
+ Few hours ago
 
 
 
-499,199
 
-total words analyzed by Grammarly
- since Dec 18, 2022 
 
+ Internship with job offer
+ Apply now
 
 
 
 
 
-Unlock 234 advanced suggestions with Grammarly Premium 
 
 
-Suggestions Detected Last Week: 
+ Actively hiring
 
-Correctness 186/234 
 
-Clarity 25/234 
 
-Engagement 25/234 
 
-Delivery 15/234 
 
+ Java Development
 
 
 
-Upgrade to Premium 
-<https://redirect.grammarly.com/redirect?hash=b9614db374e008c87a43be1481dfbcfe5b65db23&upgrade=1>
 
 
 
 
+ Sirma Business Consulting (India) Private Limited
 
 
 
-this week's stories & tips 
 
 
+ Bangalore
 
 
-Students
+ 4 months
 
-What’s the Difference Between a Reference Page and a Bibliography? 
-<https://www.grammarly.com/blog/reference-page-vs-bibliography/>› 
-<https://www.grammarly.com/blog/reference-page-vs-bibliography/>
 
+ ₹15,000 /month
 
 
 
 
-Blog Post
 
-Why Is Brand Consistency Important? 7 Ways to Ensure Your Brand Stays On 
-Message 
-<https://www.grammarly.com/business/learn/importance-of-brand-consistency/>› 
-<https://www.grammarly.com/business/learn/importance-of-brand-consistency/>
 
 
 
 
+ Just now
 
 
 
-22 Weird Words to Know and Love <https://www.grammarly.com/blog/weird-words/>› 
-<https://www.grammarly.com/blog/weird-words/>
 
 
+ Internship with job offer
+ Apply now
 
 
 
 
-Get More From Grammarly
 
 
 
+ Actively hiring
 
 
 
 
- Browser Extension
-Activate <https://app.grammarly.com/apps> 
 
+ iOS App Development
 
-Mobile Keyboard 
 
 
 
- Grammarly for Your Desktop
 
 
 
- Premium Suggestions
-Activate 
-<https://redirect.grammarly.com/redirect?hash=b9614db374e008c87a43be1481dfbcfe5b65db23&upgrade=1>
+ W3Dev
 
 
- Free Suggestions 
 
 
 
+ Noida
 
 
+ 6 months
 
- <http://www.facebook.com/grammarly>  <https://www.instagram.com/grammarly/>  
-<http://www.linkedin.com/company/grammarly>  <http://twitter.com/grammarly> 
 
+ ₹11,000-13,000 /month
 
-View Web Version 
-<https://click.grammarly.com/e/evib?_t=167a223bd8bb4d69b06c005ac9d28d6f&_m=bcbe8b2afd7f4578baf76937433e06f4&_e=SMa15g2qP2c2g9HPn91wC3Zi_LA8mjuT1EdhfTjy4FR3wFIijECqeZb7Kpk-SmUE-H-ECihTQRaWVZv3KXxD9g%3D%3D>
- •Email Preferences 
-<https://redirect.grammarly.com/redirect?mail_profile_preferences=1&profileToken=eydlbWFpbCc6ICcyMWNldW9uMTQ4QGRkdS5hYy5pbicsICdzaWduYXR1cmUnOiAnYjJiYmFlOGYwN2M5MjRkMzEzY2MxNzEyZWIyZmNmMjkwNTVjYWVmNid9>
- •Unsubscribe 
-<https://click.grammarly.com/e/eh?_t=167a223bd8bb4d69b06c005ac9d28d6f&_m=bcbe8b2afd7f4578baf76937433e06f4&_e=0AjNo-noxvZ2AyT2vfo_DN2AAMm47AU8mHyu5bADjMSv6CueKu6ldZRfvwbMaVL6JsPu0S7sD216o6XxELeC6YWG6NvZ2wJJnkxCkXtvYlfKPSzqcgxkXsZh9SuNi4YmNAbhXzd6hv06Dkxfncgeqm9eOpsYJA8QO2swivDVfDbEVs65huqZJVWBYQQsZzkjA6yhXqavmGvxWQeYibUB107kMgjRfJWAKJuVsVHP4TdxDdCBJPjgkHDeW4FKPtc2zaVFE7H3-YJIExkHS9oC4Vws1htxkY_KyNiW9_9Ny_QlXHERUeTQwvQRIogRh6wFfN_2BPdZpSq_hGimraXNYXy3EjM6ar7hnHEArjUissWr1BIr10LFwuqVcNmSUtGR4TAEyLGsgh3K_EZWYtRiC7EfWhScz-B7K6ZRJrzPDsU%3D>
 
-We hope you enjoy monitoring your weekly writing trends. But if you no longer 
-wish to receive Grammarly Insights emails, you may change your preferences by 
-clicking the link above. 
 
-© 2024 Grammarly, Inc., 548 Market St. #35410, San Francisco, CA 94104Your co-pilot for video creation.      Welcome banner 
-( https://ablink.invideo.io/f/a/H0RbtVqyif4aljwy8s7nqA~~/AAQRxQA~/RgRnkmisP0QcaHR0cHM6Ly9haS5pbnZpZGVvLmlvL3NpZ251cFcDc3BjQgploqzjr2UouSteUhQyMWNldW9uMTQ4QGRkdS5hYy5pblgEAAACWQ~~ ) Welcome banner 
-( https://ablink.invideo.io/f/a/H0RbtVqyif4aljwy8s7nqA~~/AAQRxQA~/RgRnkmisP0QcaHR0cHM6Ly9haS5pbnZpZGVvLmlvL3NpZ251cFcDc3BjQgploqzjr2UouSteUhQyMWNldW9uMTQ4QGRkdS5hYy5pblgEAAACWQ~~ )   Step1  Step1    Step2 Step2
-Step3  Step3   Get started ( https://ablink.invideo.io/f/a/H0RbtVqyif4aljwy8s7nqA~~/AAQRxQA~/RgRnkmisP0QcaHR0cHM6Ly9haS5pbnZpZGVvLmlvL3NpZ251cFcDc3BjQgploqzjr2UouSteUhQyMWNldW9uMTQ4QGRkdS5hYy5pblgEAAACWQ~~ )
-Discord ( https://ablink.invideo.io/f/a/YpvexAqabfphpGiD985U9g~~/AAQRxQA~/RgRnkmisP0QdaHR0cHM6Ly9kaXNjb3JkLmdnL2ludmlkZW8tYWlXA3NwY0IKZaKs469lKLkrXlIUMjFjZXVvbjE0OEBkZHUuYWMuaW5YBAAAAlk~ )  Discord 
-( https://ablink.invideo.io/f/a/YpvexAqabfphpGiD985U9g~~/AAQRxQA~/RgRnkmisP0QdaHR0cHM6Ly9kaXNjb3JkLmdnL2ludmlkZW8tYWlXA3NwY0IKZaKs469lKLkrXlIUMjFjZXVvbjE0OEBkZHUuYWMuaW5YBAAAAlk~ )           © 2023 invideo Inc
 
-16192 Coastal Highway, Lewes, Delaware 19958
 
-Unsubscribe ( https://ablink.invideo.io/f/a/Vu_vnWxK-OBIuxwPfgN24Q~~/AAQRxQA~/RgRnkmisP4QDAmh0dHBzOi8vMDUuZW1haWxpbmJvdW5kcHJvY2Vzc2luZy5jb20vZW5jX3VzZXIvdW5zdWJzY3JpYmU_ZD0lMjQxJTI0JTJCTno5d0h4bXZzQ3VVYThmZjc4a0lnJTNEJTNEJTI0SXRJZ1dYdGYwNWdIdXdGQ3B1RWklMkZNRTFEaGN6c29IeDFDQ3FoOW1VNXVOak43ODRJY01jNEdWTyUyRnA3YiUwQVNsRzFteFlvWW94VUd4Z3hqZExmQkdaM3BIJTJCNkFnVnNROTIlMkZldnNPSE9IQ2VuV3NxQUolMkY0RkhXQVlFaSUwQUxGTWtIZ1VEVTRpbzlZcUhXWlg0JTJCMVpJMXIwZlR3R2JtbkUxaXlNd09XOGkzS3kzcThpWDRGSDVZVjRuJTBBenlwUXowUGNkZm9zTTdFRElDS1VzbTBZVEpOYkh2NlJsUXBOQ1ZFQU0yNzl4S0tUcXRtZnJRcm1TMmNoJTBBOWJFb015cjlRVW5UQ2VMdU12VnN0Y0FjYlRUJTJCNDg2aHN6JTJCSU1semVOTkpCQklYcFpxd09IQmgyNVBiWCUwQVM3UFhMMGlpbHRXcmx5VndhJTJGYVpsV2xUS0tZRSUyQlZBTlpUMmglMkJaMThGeUdKMDNhSnVaeENXJTJCJTJCV0k2QUUlMEFVZ0ElM0QmMT0xVwNzcGNCCmWirOOvZSi5K15SFDIxY2V1b24xNDhAZGR1LmFjLmluWAQAAAJZ ) | 
-( https://ablink.invideo.io/f/a/00Bfap8kbS3Fu6PxwD67FQ~~/AAQRxQA~/RgRnkmisP0QTaHR0cHM6Ly9pbnZpZGVvLmlvL1cDc3BjQgploqzjr2UouSteUhQyMWNldW9uMTQ4QGRkdS5hYy5pblgEAAACWQ~~ ) Manage preferences (
-https://ablink.invideo.io/f/a/tlS71pTCrnSJjphMwZQK_g~~/AAQRxQA~/RgRnkmisP4RgAmh0dHBzOi8vMDUuZW1haWxpbmJvdW5kcHJvY2Vzc2luZy5jb20vZW1haWwvbWFuYWdlX3N1YnNjcmlwdGlvbnMvJTI0MSUyNDg3d3ZlRUI0T2J1bnFyZ3BtZXlNbUElM0QlM0QlMjRsM2VENTJuN3pBSXFDZ0NxQjVSNnN3MWhhWlM3dm8lMkJISjhDeWpUUG1rZWMlM0Q_ZD0lMjQxJTI0JTJCTno5d0h4bXZzQ3VVYThmZjc4a0lnJTNEJTNEJTI0SXRJZ1dYdGYwNWdIdXdGQ3B1RWklMkZNRTFEaGN6c29IeDFDQ3FoOW1VNXVOak43ODRJY01jNEdWTyUyRnA3YiUwQVNsRzFteFlvWW94VUd4Z3hqZExmQkdaM3BIJTJCNkFnVnNROTIlMkZldnNPSE9IQ2VuV3NxQUolMkY0RkhXQVlFaSUwQUxGTWtIZ1VEVTRpbzlZcUhXWlg0JTJCMVpJMXIwZlR3R2JtbkUxaXlNd09XOGkzS3kzcThpWDRGSDVZVjRuJTBBenlwUXowUGNkZm9zTTdFRElDS1VzbTBZVEpOYkh2NlJsUXBOQ1ZFQU0yNzl4S0tUcXRtZnJRcm1TMmNoJTBBOWJFb015cjlRVW5UQ2VMdU12VnN0Y0FjYlRUJTJCNDg2aHN6JTJCSU1semVOTkpCQklYcFpxd09IQmgyNVBiWCUwQVM3UFhMMGlpbHRXcmx5VndhJTJGYVpsV2xUS0tZRSUyQlZBTlpUMmglMkJaMThGeUdKMDNhSnVaeENXJTJCJTJCV0k2QUUlMEFVZ0ElM0QmMT0xVwNzcGNCCmWirOOvZSi5K15SFDIxY2V1b24xNDhAZGR1LmFjLmluWAQAAAJZ )
+
+
+
+
+ Today
+
+
+
+
+
+ Internship with job offer
+ Apply now
+
+
+
+
+
+
+
+ Actively hiring
+
+
+
+
+
+ Software Development
+
+
+
+
+
+
+
+ Blackcoffer
+
+
+
+
+
+ Work From Home
+
+
+ 6 months
+
+
+ ₹10,000-12,000 /month
+
+
+
+
+
+
+
+
+
+ Today
+
+
+
+
+
+ Internship with job offer
+ Apply now
+
+
+
+
+
+
+
+ Actively hiring
+
+
+
+
+
+ Front End Development
+
+
+
+
+
+
+
+ DigiPlus IT
+
+
+
+
+
+ Mumbai
+
+
+ 3 months
+
+
+ ₹10,000 /month
+
+
+
+
+
+
+
+
+
+ Few hours ago
+
+
+
+
+
+ Internship with job offer
+ Apply now
+
+
+
+
+
+
+
+ Actively hiring
+
+
+
+
+
+ Digital Marketing
+
+
+
+
+
+
+ Renown
+
+
+
+
+
+ Bangalore (Hybrid)
+
+
+ 2 months
+
+
+ ₹8,000 /month + Incentives
+
+
+
+
+
+
+
+
+
+ Today
+
+
+
+
+
+ Internship with job offer
+ Apply now
+
+
+
+
+
+
+
+ Actively hiring
+
+
+
+
+
+ Web Development
+
+
+
+
+
+
+ The Investment Compass
+
+
+
+
+
+ Work From Home
+
+
+ 1 month
+
+
+ ₹8,000 /month
+
+
+
+
+
+
+
+
+
+ Today
+
+
+
+
+
+ Internship with job offer
+ Apply now
+
+
+
+
+
+
+
+ Actively hiring
+
+
+
+
+
+ Social Media Marketing
+
+
+
+
+
+
+
+ WhataPortrait.com
+
+
+
+
+
+ Work From Home
+
+
+ 6 months
+
+
+ ₹8,000 /month
+
+
+
+
+
+
+
+
+
+ Today
+
+
+
+
+
+ Internship with job offer
+ Apply now
+
+
+
+
+
+
+
+ Actively hiring
+
+
+
+
+
+ Backend Executive
+
+
+
+
+
+
+
+ Technical & Transformation Consultant
+
+
+
+
+
+ Jaipur
+
+
+ 3 months
+
+
+ ₹6,000-8,000 /month
+
+
+
+
+
+
+
+
+
+ Today
+
+
+
+
+
+ Internship with job offer
+ Apply now
+
+
+
+
+
+
+
+ Actively hiring
+
+
+
+
+
+ WhatsApp Marketing
+
+
+
+
+
+
+
+ Corizo EduTech
+
+
+
+
+
+ Work From Home
+
+
+ 1 month
+
+
+ ₹1,000-10,000 /month
+
+
+ Part time
+
+
+
+
+
+
+
+
+
+ Few hours ago
+
+
+
+
+
+ Internship with job offer
+ Apply now
+
+
+
+
+
+
+
+ Actively hiring
+
+
+
+
+
+ Email Marketing
+
+
+
+
+
+
+
+ Corizo EduTech
+
+
+
+
+
+ Work From Home
+
+
+ 1 month
+
+
+ ₹1,000-10,000 /month
+
+
+ Part time
+
+
+
+
+
+
+
+
+
+ Few hours ago
+
+
+
+
+
+ Internship with job offer
+ Apply now
+
+
+
+
+
+
+
+ Actively hiring
+
+
+
+
+
+ Social Media Marketing
+
+
+
+
+
+
+ Star Production
+
+
+
+
+
+ Delhi
+
+
+ 1 month
+
+
+ ₹3,000-7,000 /month
+
+
+ Part time
+
+
+
+
+
+
+
+
+
+ Few hours ago
+
+
+
+
+
+ Internship with job offer
+ Apply now
+
+
+
+
+
+
+
+ Actively hiring
+
+
+
+
+
+ Social Media Marketing
+
+
+
+
+
+
+
+ Darkpacific Socialmedia Private Limited
+
+
+
+
+
+ Gurgaon
+
+
+ 5 months
+
+
+ ₹5,000 /month + Incentives
+
+
+
+
+
+
+
+
+
+ Today
+
+
+
+
+
+ Internship with job offer
+ Apply now
+
+
+
+
+
+
+
+ Actively hiring
+
+
+
+
+
+ Content Writing
+
+
+
+
+
+
+
+ Ayurheals
+
+
+
+
+
+ Work From Home
+
+
+ 6 months
+
+
+ ₹5,000 /month + Incentives
+
+
+
+
+
+
+
+
+
+ Today
+
+
+
+
+
+ Internship with job offer
+ Apply now
+
+
+
+
+ These results are based on the preferences you have filled. You can change
+them here.
+
+
+ View more internships
+
+
+
+ Learn new skills to get job-ready
+ Top 3 recommended trainings for you that will help you set your resume
+apart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ React
+ Master the front-end powerhouse used to build seamless applications!
+ Enroll now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Programming with Python
+ Build a fantasy cricket game using Python language
+ Enroll now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Machine Learning
+ Learn Machine Learning from scratch and take the first step towards AI
+ Enroll now
+
+
+
+
+
+
+
+
+
+
+ Explore the e-learning arm of Internshala where you can learn new-age
+skills on your schedule!
+
+ View more trainings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Internshala (Scholiverse Educare Pvt. Ltd.)901A/B, Iris Tech Park, Sector
+48, Gurugram, Haryana, India - 122018
+ Not keen on career commitments? Unsubscribe here to break up with us.
+
+SHEILDIFYFrom: 
+redBus <greetings@travel.e-redbus.in>Subject: 
+Kriti Bhatt, can we know you better? 😁Email: 
+template
+
+ Take Survey --Click Here to unsubscribe from this newsletter.
+
+SHEILDIFYFrom: 
+Flipkart <no-reply@ncp.flipkart.com>Subject: 
+Role: Strong Female LeadEmail: 
+Know anyone? Send this to them...   
+             
+           
+            
+          
+         
+       
+       
+       
+       
+         
+          
+           
+           
+             
+                  
+                  
+                  
+                  
+             
+             
+              
+               
+               
+                 
+                 
+               
+                
+             
+           
+            
+          
+         
+       
+        
+      
+     
+   
+   
+   
+   
+     
+      
+       
+       
+        
+         
+              
+         
+        
+        
+     
+     
+      
+       
+       
+        
+         
+              
+         
+        
+        
+     
+     
+      
+       
+       
+        
+         
+              
+         
+        
+        
+     
+     
+      
+       
+       
+        
+         
+              
+         
+        
+        
+     
+     
+      
+       
+       
+        
+         
+              
+         
+        
+        
+     
+     
+      
+       
+       
+        
+         
+              
+         
+        
+        
+     
+     
+      
+       
+       
+        
+         
+              
+         
+        
+        
+     
+     
+      
+       
+       
+        
+         
+              
+         
+        
+        
+     
+     
+      
+       
+       
+        
+         
+              
+         
+        
+        
+     
+     
+      
+       
+       
+        
+         
+              
+         
+        
+        
+     
+     
+      
+       
+       
+        
+         
+              
+         
+        
+        
+     
+   
+   
+   
+   
+   
+   
+   
+   
+     
+      
+          
+      
+       
+       
+         
+                    
+         
+       
+       
+       
+       
+         
+           We hope you enjoy emails from Flipkart. If you wish to unsubscribe, please click here .
+
+SHEILDIFYFrom: 
+Team Unstop <noreply@opportuinities.unstop.news>Subject: 
+Upskill maadi matthu udyogavannu paadeyiri | Learn with UnstopEmail: 
+Hi,
+
+After going to Udyoga Mela in Bengaluru, you must’ve realised that
+most companies value skills over degrees or diplomas. So, it's
+important to develop in-demand skills to get a job 🧑‍🎓
+
+No worries! With Unstop Pro, you can unlock knowledge and learn
+in-demand skills, practice concepts, and get guidance from mentors
+📊
+
+Get job-ready with Unstop Pro ✅ If you want to apply to jobs in trending domains like Data Analytics,
+Cyber Security, Brand Management & more or need help with common
+Aptitude tests, register now 👍
+
+Have a question? Ask us here .
+
+Regards, 
+
+Team Unstop
+
+--Click Here to unsubscribe from this newsletter.
+
+SHEILDIFYFrom: 
+Quora Digest <english-personalized-digest@quora.com>Subject: 
+What is your most inappropriate sleepover as a teen?Email: 
+Top stories for INSPIRED
+
+-----
+
+Question: What is your most inappropriate sleepover as a teen?
+
+
+Answer from Duane Siskey
+
+
+I grew up in a small town. Everyone knew everyone else. We all knew the police, and the police knew us and our parents. My best friend’s uncle was a sergeant in the local  
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjY5NjI0NTM5MjMyMTU3NTkwOXwxfDF8MTQ3Nzc0MzY3OTgyMTg1MCJ9&al_pri=8&aoid=jYlq4XQVBEj&aoty=1&aty=4&cp=1&et=2&id=1474bd28352b4305aa7ff96d9b4b620d&uid=do9mBJGpwbU
+-----
+Question: I'm in love with a married man. I learned that he was married just recently and he says that he is unhappy and will divorce very soon. What should I do?
+
+
+Answer from X0 Mage
+
+
+As someone who was in the same issue, but on the opposite side (single guy, who had a long term affair with a married woman, when I was about 25 or so, am 51 now), I can t 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjY5NjI0NTM5MjMyMTU3NTkwOXwyfDF8MTQ3Nzc0MzcyNDMzMDU5OSJ9&al_pri=8&aoid=av2yflcawXi&aoty=1&aty=4&cp=2&et=2&id=1474bd28352b4305aa7ff96d9b4b620d&uid=do9mBJGpwbU
+-----
+Question: My 12-year-old daughter wants to have a sleepover with several of her friends. I am a single father. What precautions should I set in place?
+
+
+Answer from Dennis Manning
+
+
+I make sure my daughter and her friends have everything they need…food, drinks, games, TV, movies, etc.
+
+Then wherever I am at, the girls are not. If I have to go among th 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjY5NjI0NTM5MjMyMTU3NTkwOXwzfDF8MTU0NTEzNzYwIn0%3D&al_pri=8&aoid=aYWN7LbTOM7&aoty=1&aty=4&cp=3&et=2&id=1474bd28352b4305aa7ff96d9b4b620d&uid=do9mBJGpwbU
+-----
+Question: My wife's niece is 25 with 7 kids (no joke). She seems to get pregnant to keep a man which obviously doesn't work since she's on the 4th guy. What would you say to her?
+
+
+Answer from Eileen Wood
+
+
+My wife's niece is 25 with 7 kids (no joke). She seems to get pregnant to keep a man which obviously doesn't work since she's on the 4th guy. What would you say to her?
+
+I 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjY5NjI0NTM5MjMyMTU3NTkwOXw0fDF8MTQ3Nzc0MzY3Njk0MzQzNiJ9&al_pri=8&aoid=40eYvrPGdrH&aoty=1&aty=4&cp=4&et=2&id=1474bd28352b4305aa7ff96d9b4b620d&uid=do9mBJGpwbU
+-----
+Question: What would happen if I hooked up with someone I met from a bar only to later find out they used a fake ID to get in and they are actually underage? Could I defend myself in court?
+
+
+Answer from Always Fixing
+
+
+I just saw this and had to answer any way. About twenty years ago we had some boys living with us. One of the boys met a girl who claimed to be his age, he was 18. They we 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjY5NjI0NTM5MjMyMTU3NTkwOXw1fDF8MTQ3Nzc0MzY1MTUxMDM3NSJ9&al_pri=8&aoid=ahcBR2zxuIW&aoty=1&aty=4&cp=5&et=2&id=1474bd28352b4305aa7ff96d9b4b620d&uid=do9mBJGpwbU
+-----
+Question: What do massage therapists do if a female client gets excited during a massage?
+
+
+Answer from Sidney Sid
+
+
+Its quite common for clients to get excited during a massage service. What happen next is something which depends on the clients consent and requirement. However, clients  
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjY5NjI0NTM5MjMyMTU3NTkwOXw2fDF8MTQ3Nzc0MzcxNDMwMTk2NSJ9&al_pri=8&aoid=X1KqpkA9cG4&aoty=1&aty=4&cp=6&et=2&id=1474bd28352b4305aa7ff96d9b4b620d&uid=do9mBJGpwbU
+-----
+Question: I know CSS, HTML, JS, React.js, and Node.js. What should I learn more to become a full-stack developer?
+
+
+Answer from Atanas Markov
+
+
+If you know these and you really mean know you are a full-stack developer as you can write an entire site or web application both frontend and backend side. You only miss  
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjY5NjI0NTM5MjMyMTU3NTkwOXw3fDF8MTQ3Nzc0MzY2MzYwMzc1NCJ9&al_pri=8&aoid=3J2ghrBoHuS&aoty=1&aty=4&cp=7&et=2&id=1474bd28352b4305aa7ff96d9b4b620d&uid=do9mBJGpwbU
+-----
+Question: For male and female roommates, is it awkward to share a bathroom?
+
+
+Answer from Jamie Meehan
+
+
+A number of years ago I moved in with two girls. They had someone move out unexpectedly and I needed a place so I moved in. There was only one bathroom and we all needed t 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjY5NjI0NTM5MjMyMTU3NTkwOXw4fDF8MTQ3Nzc0MzY3MDM5NTI2MCJ9&al_pri=8&aoid=dSzjXxKDmiT&aoty=1&aty=4&cp=8&et=2&id=1474bd28352b4305aa7ff96d9b4b620d&uid=do9mBJGpwbU
+-----
+Question: What are the most terrifying unedited photos of all time?
+
+
+Answer from Travis
+
+
+This one always gets me.
+
+In 1988, Tara Calico mysteriously vanished while biking along a New Mexico road. Her mother, Patty Doel, who previously accompanied her but stopp 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjY5NjI0NTM5MjMyMTU3NTkwOXw5fDF8MTQ3Nzc0MzcxMjM3NTE1MyJ9&al_pri=8&aoid=MisiyaG9kAF&aoty=1&aty=4&cp=9&et=2&id=1474bd28352b4305aa7ff96d9b4b620d&uid=do9mBJGpwbU
+-----
+Question: Is cheating in a relationship really the worst thing in the world, or is it something we need to learn how to be mentally strong enough to get over to continue the relationship?
+
+
+Answer from Dushka Zapata
+
+
+Please do not believe that getting over being cheated is related to mental strength.
+
+If it did, this would mean that those who don't get over being cheated on are weak.
+
+ 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjY5NjI0NTM5MjMyMTU3NTkwOXwxMHwxfDI1MTc5Mjc2NiJ9&al_pri=8&aoid=drgGOx0b9wi&aoty=1&aty=4&cp=10&et=2&id=1474bd28352b4305aa7ff96d9b4b620d&uid=do9mBJGpwbU
+-----
+Question: Why do female nurses expect male patients to just drop their pants without a privacy sheet? It makes me so mad because male doctors/nurses would never treat a female patient that way.
+
+
+Answer from Sue Casely
+
+
+When I trained, we had respect for the patient's dignity drummed into us. Fast forward 40 years and a young carer was helping me to bed bath a man. She saw me draping towe 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjY5NjI0NTM5MjMyMTU3NTkwOXwxMXwxfDE0Nzc3NDM2NTk2NjE1ODQifQ%3D%3D&al_pri=8&aoid=XDpjK15Ckv7&aoty=1&aty=4&cp=11&et=2&id=1474bd28352b4305aa7ff96d9b4b620d&uid=do9mBJGpwbU
+-----
+Question: What happened in a tent while you were camping that you will never forget?
+
+
+Answer from Christine Chenery
+
+
+I was camping with the Girl Guides when I was younger and we slept in a big bell tent. There was a group of boy scouts in the adjoining field and we all got along very wel 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjY5NjI0NTM5MjMyMTU3NTkwOXwxMnwxfDE0Nzc3NDM2OTg1MDg3NzQifQ%3D%3D&al_pri=8&aoid=oCssF5L3RRd&aoty=1&aty=4&cp=12&et=2&id=1474bd28352b4305aa7ff96d9b4b620d&uid=do9mBJGpwbU
+-----
+
+-----
+
+To control which emails we send you, visit: https://www.quora.com/qemail/tc?aoid&aoty=14&aty=4&cp=0&et=2&id=1474bd28352b4305aa7ff96d9b4b620d&uid=do9mBJGpwbU
+
+To unsubscribe from this type of email, visit: https://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=1474bd28352b4305aa7ff96d9b4b620d&t=1709894736050997&token=175927cf9ecfe4be345434cd87a8968d5b0ed17974e7d3e9c4f40ae6eead1842c512e0b98dc2701c747800219f5127fbf76c2c5c66ca56e3924ae6d12fa4a7a3&type=2&uid=1398608248
+
+SHEILDIFYFrom: 
+Kotak Bank <retailproducts@mail.kotak.in>Subject: 
+👩 Are you a smart investor? Know here 👇Email: 
+Trinity Women's Day Mailer 
+
+ With a 3-in-1 A/c - Save, Trade & Invest via 1 A/c Key Benefits Of Savings A/c 
+
+ Seamless transfer of funds 
+
+ Apply for IPOs
+ via ASBA 
+
+ Key Benefits Of Trading A/c 
+
+ ₹0* Brokerage on all trades 
+
+ Explore the features of Neo App for Trading 
+
+ Upgrade to a 3-in-1 A/c Need Assistance? 
+
+ Savings A/c 1860 266 2666 (Local call charges apply) 
+
+ Demat A/c & Trading A/c: 1800 209 9191 
+
+ Write to us at service.securities@kotak.com Trinity Account Disclaimer | Copyright & Disclaimer | Privacy Policy | Kotak Securities Disclaimer T&C apply. Note: Kotak Mahindra Bank offers the Savings
+Account, while Kotak Securities offers the Demat and Trading Account.
+Investments are subject to market risks, read all scheme related
+documents carefully. *Get zero brokerage with Trade Free Youth plan at
+a subscription fee of ₹299
+
+ By clicking on the link above, you are hereby giving your consent to
+receive calls/communications from Kotak Mahindra Bank Ltd. for
+marketing purposes through Telephone/Mobile/SMS/Email for the above
+mentioned product and
+that such consent shall prevail over any current or subsequent
+registration of your number for “Do Not Call”. 
+
+ In case you do not wish to receive any further marketing e-mails on
+your CRN ending with 4356, please click here to unsubscribe.
+
+SHEILDIFYFrom: 
+Internshala Clubs <student@internshala.com>Subject: 
+[New Event] 📢 How To Clear Job Interviews | Mistakes To Avoid In Resumes With Gayatri MudgilEmail: 
+Join us for this free event exclusive to members of the Personal Growth in
+IS Clubs.
+
+
+
+
+
+ 📢 How To Clear Job Interviews | Mistakes To Avoid in Resumes
+
+
+
+ Speaker: Gayatri Mudgil, HR Manager, Internshala
+ Time: 8th Mar, 7:00 PM (30 mins)
+
+
+
+ Join us for this free event exclusive to members of Internshala Clubs.
+
+
+ About event:
+ In today's session, we'll explore the field of Human Resources as a career
+path, including how to enter this profession. Additionally, we'll share
+valuable advice on acing job interviews and highlight common errors to steer
+clear of in your resumes.
+
+
+
+ What will you learn:
+
+ Human Resource as a Career
+ Job Interview Preparation
+ Resume mistakes to avoid
+
+
+
+ The speaker will also address any questions you have at the end of the
+session!
+
+
+ Register Now
+
+
+
+ Thanks,
+ Internshala Clubs Team
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Internshala (Scholiverse Educare Pvt. Ltd.)
+ B-610, Unitech Business Zone Golf Course Extension Road, Sector 50,
+Gurugram
+
+SHEILDIFYFrom: 
+LinkedIn <jobs-listings@linkedin.com>Subject: 
+Mitsogo is hiring: Scrum Master/Program Co-ordinator.Email: 
+Top job picks for you: https://www.linkedin.com/comm/jobs/collections/recommended?origin=JYMBII_EMAIL&lgCta=eml-jymbii-bottom-see-all-jobs&lgTemp=jobs_jymbii_digest&lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3BVlnyldQ7TM2DbselnwB3XQ%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=0Lj0YbkRM0Sr81&trk=eml-jobs_jymbii_digest-null-0-null&trkEmail=eml-jobs_jymbii_digest-null-0-null-null-fk339c~ltigk3s9~ed-null-null&eid=fk339c-ltigk3s9-ed&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmQ4ZmNiZDY0NjkwYTg4ZDYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmUxMWFkMGNlZDk3MWFiZjU2ODA3NjUwMmQ4YjQ2Mzk3MWJjOWQ2MWJlMWY1NGY4NCwxLDE%3D
+  
+          
+Scrum Master/Program Co-ordinator
+Mitsogo
+Chennai
+This company is actively hiring
+View job: https://www.linkedin.com/comm/jobs/view/3770303251/?trackingId=f1Ssr%2FiBQC2TKUXZSyOQKg%3D%3D&refId=W7e9SrlJR8KHWFmVxj4UWA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3BVlnyldQ7TM2DbselnwB3XQ%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=0Lj0YbkRM0Sr81&trk=eml-jobs_jymbii_digest-job_card-0-view_job&trkEmail=eml-jobs_jymbii_digest-job_card-0-view_job-null-fk339c~ltigk3s9~ed-null-null&eid=fk339c-ltigk3s9-ed&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmQ4ZmNiZDY0NjkwYTg4ZDYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmUxMWFkMGNlZDk3MWFiZjU2ODA3NjUwMmQ4YjQ2Mzk3MWJjOWQ2MWJlMWY1NGY4NCwxLDE%3D
+
+---------------------------------------------------------
+  
+          
+Executive
+Wipro
+Chennai
+This company is actively hiring
+View job: https://www.linkedin.com/comm/jobs/view/3839777968/?trackingId=iJpAbSk0RP64XrvIIH5kpw%3D%3D&refId=eljbTjsnS%2F67jFk7HDSY0g%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3BVlnyldQ7TM2DbselnwB3XQ%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=0Lj0YbkRM0Sr81&trk=eml-jobs_jymbii_digest-job_card-0-view_job&trkEmail=eml-jobs_jymbii_digest-job_card-0-view_job-null-fk339c~ltigk3s9~ed-null-null&eid=fk339c-ltigk3s9-ed&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmQ4ZmNiZDY0NjkwYTg4ZDYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmUxMWFkMGNlZDk3MWFiZjU2ODA3NjUwMmQ4YjQ2Mzk3MWJjOWQ2MWJlMWY1NGY4NCwxLDE%3D
+
+---------------------------------------------------------
+  
+          
+Co-Founder
+Diomandz©®™
+Surat
+Be first of 2 to apply
+Apply with resume & profile
+View job: https://www.linkedin.com/comm/jobs/view/3845437649/?trackingId=mNVoG9GlS7SVvSlNWVZ6AA%3D%3D&refId=IDos%2FsTXTjSGAO%2FKhIFaOw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3BVlnyldQ7TM2DbselnwB3XQ%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=0Lj0YbkRM0Sr81&trk=eml-jobs_jymbii_digest-job_card-0-view_job&trkEmail=eml-jobs_jymbii_digest-job_card-0-view_job-null-fk339c~ltigk3s9~ed-null-null&eid=fk339c-ltigk3s9-ed&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmQ4ZmNiZDY0NjkwYTg4ZDYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmUxMWFkMGNlZDk3MWFiZjU2ODA3NjUwMmQ4YjQ2Mzk3MWJjOWQ2MWJlMWY1NGY4NCwxLDE%3D
+
+---------------------------------------------------------
+  
+          
+Frontend Architect
+Careernet
+Chennai
+This company is actively hiring
+View job: https://www.linkedin.com/comm/jobs/view/3844363599/?trackingId=UzxbVVMSRa6zPTkMBMMX%2Bw%3D%3D&refId=NkGIeWDuRb60or3bGqu2zA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3BVlnyldQ7TM2DbselnwB3XQ%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=0Lj0YbkRM0Sr81&trk=eml-jobs_jymbii_digest-job_card-0-view_job&trkEmail=eml-jobs_jymbii_digest-job_card-0-view_job-null-fk339c~ltigk3s9~ed-null-null&eid=fk339c-ltigk3s9-ed&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmQ4ZmNiZDY0NjkwYTg4ZDYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmUxMWFkMGNlZDk3MWFiZjU2ODA3NjUwMmQ4YjQ2Mzk3MWJjOWQ2MWJlMWY1NGY4NCwxLDE%3D
+
+---------------------------------------------------------
+  
+          
+Co-Founder
+Guider-भैया
+Delhi
+Be first of 7 to apply
+Apply with resume & profile
+View job: https://www.linkedin.com/comm/jobs/view/3844889134/?trackingId=qj4QU8sMQIaZaH1BsfL%2BXw%3D%3D&refId=b0rjzN1HTTSQfDbLMcuLsQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3BVlnyldQ7TM2DbselnwB3XQ%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=0Lj0YbkRM0Sr81&trk=eml-jobs_jymbii_digest-job_card-0-view_job&trkEmail=eml-jobs_jymbii_digest-job_card-0-view_job-null-fk339c~ltigk3s9~ed-null-null&eid=fk339c-ltigk3s9-ed&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmQ4ZmNiZDY0NjkwYTg4ZDYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmUxMWFkMGNlZDk3MWFiZjU2ODA3NjUwMmQ4YjQ2Mzk3MWJjOWQ2MWJlMWY1NGY4NCwxLDE%3D
+
+---------------------------------------------------------
+  
+          
+Recruiter
+TestGrid.io
+India
+This company is actively hiring
+Apply with resume & profile
+View job: https://www.linkedin.com/comm/jobs/view/3841350528/?trackingId=F9fCICKOSSiPLDiF9NKqTg%3D%3D&refId=as60WTfzR5%2BGbA2%2FC22bUg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3BVlnyldQ7TM2DbselnwB3XQ%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=0Lj0YbkRM0Sr81&trk=eml-jobs_jymbii_digest-job_card-0-view_job&trkEmail=eml-jobs_jymbii_digest-job_card-0-view_job-null-fk339c~ltigk3s9~ed-null-null&eid=fk339c-ltigk3s9-ed&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmQ4ZmNiZDY0NjkwYTg4ZDYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmUxMWFkMGNlZDk3MWFiZjU2ODA3NjUwMmQ4YjQ2Mzk3MWJjOWQ2MWJlMWY1NGY4NCwxLDE%3D
+
+---------------------------------------------------------
+  
+See all jobs https://www.linkedin.com/comm/jobs/collections/recommended?origin=JYMBII_EMAIL&lgCta=eml-jymbii-bottom-see-all-jobs&lgTemp=jobs_jymbii_digest&lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3BVlnyldQ7TM2DbselnwB3XQ%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=0Lj0YbkRM0Sr81&trk=eml-jobs_jymbii_digest-null-0-null&trkEmail=eml-jobs_jymbii_digest-null-0-null-null-fk339c~ltigk3s9~ed-null-null&eid=fk339c-ltigk3s9-ed&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmQ4ZmNiZDY0NjkwYTg4ZDYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmUxMWFkMGNlZDk3MWFiZjU2ODA3NjUwMmQ4YjQ2Mzk3MWJjOWQ2MWJlMWY1NGY4NCwxLDE%3D
+See jobs where you’re a top applicant
+https://www.linkedin.com/comm/premium/products/?utype=job&lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3BVlnyldQ7TM2DbselnwB3XQ%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=0Lj0YbkRM0Sr81&trk=eml-jobs_jymbii_digest-jymbii-0-premium~upsell~text&trkEmail=eml-jobs_jymbii_digest-jymbii-0-premium~upsell~text-null-fk339c~ltigk3s9~ed-null-null&eid=fk339c-ltigk3s9-ed&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmQ4ZmNiZDY0NjkwYTg4ZDYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmUxMWFkMGNlZDk3MWFiZjU2ODA3NjUwMmQ4YjQ2Mzk3MWJjOWQ2MWJlMWY1NGY4NCwxLDE%3D
+  
+
+
+----------------------------------------
+
+This email was intended for kanya Bhatt (Software developer | Student at Dharmsinh Desai University | machine learning enthusiast)
+Learn why we included this: https://www.linkedin.com/help/linkedin/answer/4788?lang=en&lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3BVlnyldQ7TM2DbselnwB3XQ%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=0Lj0YbkRM0Sr81&trk=eml-jobs_jymbii_digest-SecurityHelp-0-textfooterglimmer&trkEmail=eml-jobs_jymbii_digest-SecurityHelp-0-textfooterglimmer-null-fk339c~ltigk3s9~ed-null-null&eid=fk339c-ltigk3s9-ed&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmQ4ZmNiZDY0NjkwYTg4ZDYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmUxMWFkMGNlZDk3MWFiZjU2ODA3NjUwMmQ4YjQ2Mzk3MWJjOWQ2MWJlMWY1NGY4NCwxLDE%3D
+You are receiving Jobs You Might Be Interested In emails.
+ https://www.linkedin.com/comm/jobs/alerts?lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3BVlnyldQ7TM2DbselnwB3XQ%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=0Lj0YbkRM0Sr81&trk=eml-jobs_jymbii_digest-null-0-null&trkEmail=eml-jobs_jymbii_digest-null-0-null-null-fk339c~ltigk3s9~ed-null-null&eid=fk339c-ltigk3s9-ed&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmQ4ZmNiZDY0NjkwYTg4ZDYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmUxMWFkMGNlZDk3MWFiZjU2ODA3NjUwMmQ4YjQ2Mzk3MWJjOWQ2MWJlMWY1NGY4NCwxLDE%3D 
+Unsubscribe: https://www.linkedin.com/comm/psettings/email-unsubscribe?lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3BVlnyldQ7TM2DbselnwB3XQ%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=0Lj0YbkRM0Sr81&trk=eml-jobs_jymbii_digest-unsubscribe-0-textfooterglimmer&trkEmail=eml-jobs_jymbii_digest-unsubscribe-0-textfooterglimmer-null-fk339c~ltigk3s9~ed-null-null&eid=fk339c-ltigk3s9-ed&loid=AQF-UDzMWq8k-gAAAY4da38JAGaWD8gybFRD4t5AjbtCxxyH5u_-1SJaM6LscZDeDbA950ntnyjN034jrOPG3yiSrN9vrUS6XYj_
+Help: https://www.linkedin.com/help/linkedin/answer/67?lang=en&lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3BVlnyldQ7TM2DbselnwB3XQ%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=0Lj0YbkRM0Sr81&trk=eml-jobs_jymbii_digest-help-0-textfooterglimmer&trkEmail=eml-jobs_jymbii_digest-help-0-textfooterglimmer-null-fk339c~ltigk3s9~ed-null-null&eid=fk339c-ltigk3s9-ed&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmQ4ZmNiZDY0NjkwYTg4ZDYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmUxMWFkMGNlZDk3MWFiZjU2ODA3NjUwMmQ4YjQ2Mzk3MWJjOWQ2MWJlMWY1NGY4NCwxLDE%3D
+
+© 2024 LinkedIn Corporation, 1zwnj000 West Maude Avenue, Sunnyvale, CA 94085.
+LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.
+
+SHEILDIFYFrom: 
+Swiggy Dineout <no-reply@swiggy.in>Subject: 
+Look what we've planned! 👀Email: 
+Email Template Don't want convenience delivered to your inbox? Unsubscribe here
+
+SHEILDIFYFrom: 
+LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>Subject: 
+“software engineer” roles: 30+ new jobsEmail: 
+Your job alert for software engineer in Ahmedabad
+        
+30+ new jobs match your preferences.  
+          
+Backend PHP Laravel Developer
+QalbIT Infotech Pvt Ltd
+Ahmedabad
+Apply with resume & profile
+View job: https://www.linkedin.com/comm/jobs/view/3848331946/?trackingId=9U%2FB8SaoiGrn2NwqZsrazQ%3D%3D&refId=ByteString%28length%3D16%2Cbytes%3Dace5bcf1...c04ad6b1%29&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BkyV%2BXmwCTPSFU8%2Bj3PqRMg%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=1TmyjDx722Sb81&trk=eml-email_job_alert_digest_01-job_card-0-view_job&trkEmail=eml-email_job_alert_digest_01-job_card-0-view_job-null-fk339c~ltic77ig~fl-null-null&eid=fk339c-ltic77ig-fl&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmM4Y2NlZDU0OTkxYWY4YjYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjg5NjFiOWJmZDI3ZjgwZWI1NGQ4NzFiODNlYWQyMWRjN2RlMDVjYTBlNDQ0NWVkNywxLDE%3D
+
+---------------------------------------------------------
+  
+          
+Fullstack Developer
+IBM
+Gandhinagar
+47 school alumni
+View job: https://www.linkedin.com/comm/jobs/view/3844894397/?trackingId=T1WIrEfDO6DM1cYBu8MdZw%3D%3D&refId=ByteString%28length%3D16%2Cbytes%3Dace5bcf1...c04ad6b1%29&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BkyV%2BXmwCTPSFU8%2Bj3PqRMg%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=1TmyjDx722Sb81&trk=eml-email_job_alert_digest_01-job_card-0-view_job&trkEmail=eml-email_job_alert_digest_01-job_card-0-view_job-null-fk339c~ltic77ig~fl-null-null&eid=fk339c-ltic77ig-fl&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmM4Y2NlZDU0OTkxYWY4YjYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjg5NjFiOWJmZDI3ZjgwZWI1NGQ4NzFiODNlYWQyMWRjN2RlMDVjYTBlNDQ0NWVkNywxLDE%3D
+
+---------------------------------------------------------
+  
+          
+iOS Developer
+Appuno IT Solutions
+Ahmedabad
+Apply with resume & profile
+View job: https://www.linkedin.com/comm/jobs/view/3848793469/?trackingId=KUwf7ZOga6gOgrkrx76SQw%3D%3D&refId=ByteString%28length%3D16%2Cbytes%3Dace5bcf1...c04ad6b1%29&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BkyV%2BXmwCTPSFU8%2Bj3PqRMg%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=1TmyjDx722Sb81&trk=eml-email_job_alert_digest_01-job_card-0-view_job&trkEmail=eml-email_job_alert_digest_01-job_card-0-view_job-null-fk339c~ltic77ig~fl-null-null&eid=fk339c-ltic77ig-fl&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmM4Y2NlZDU0OTkxYWY4YjYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjg5NjFiOWJmZDI3ZjgwZWI1NGQ4NzFiODNlYWQyMWRjN2RlMDVjYTBlNDQ0NWVkNywxLDE%3D
+
+---------------------------------------------------------
+  
+          
+iOS Developer
+Hexaware Technologies
+Ahmedabad
+3 school alumni
+View job: https://www.linkedin.com/comm/jobs/view/3849449907/?trackingId=hKzSYo2oaRPr0lhUkDEC8A%3D%3D&refId=ByteString%28length%3D16%2Cbytes%3Dace5bcf1...c04ad6b1%29&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BkyV%2BXmwCTPSFU8%2Bj3PqRMg%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=1TmyjDx722Sb81&trk=eml-email_job_alert_digest_01-job_card-0-view_job&trkEmail=eml-email_job_alert_digest_01-job_card-0-view_job-null-fk339c~ltic77ig~fl-null-null&eid=fk339c-ltic77ig-fl&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmM4Y2NlZDU0OTkxYWY4YjYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjg5NjFiOWJmZDI3ZjgwZWI1NGQ4NzFiODNlYWQyMWRjN2RlMDVjYTBlNDQ0NWVkNywxLDE%3D
+
+---------------------------------------------------------
+  
+          
+Reactjs Developer
+Simform
+Ahmedabad
+33 school alumni
+View job: https://www.linkedin.com/comm/jobs/view/3849756078/?trackingId=Enwzf%2FBWwd1vxFUyO4SDlg%3D%3D&refId=ByteString%28length%3D16%2Cbytes%3Dace5bcf1...c04ad6b1%29&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BkyV%2BXmwCTPSFU8%2Bj3PqRMg%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=1TmyjDx722Sb81&trk=eml-email_job_alert_digest_01-job_card-0-view_job&trkEmail=eml-email_job_alert_digest_01-job_card-0-view_job-null-fk339c~ltic77ig~fl-null-null&eid=fk339c-ltic77ig-fl&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmM4Y2NlZDU0OTkxYWY4YjYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjg5NjFiOWJmZDI3ZjgwZWI1NGQ4NzFiODNlYWQyMWRjN2RlMDVjYTBlNDQ0NWVkNywxLDE%3D
+
+---------------------------------------------------------
+  
+          
+Laravel Developer
+TechAlmas LLP
+Ahmedabad
+This company is actively hiring
+Apply with resume & profile
+View job: https://www.linkedin.com/comm/jobs/view/3848787596/?trackingId=JhE8HDJYDARY%2FwMvlffwdQ%3D%3D&refId=ByteString%28length%3D16%2Cbytes%3Dace5bcf1...c04ad6b1%29&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BkyV%2BXmwCTPSFU8%2Bj3PqRMg%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=1TmyjDx722Sb81&trk=eml-email_job_alert_digest_01-job_card-0-view_job&trkEmail=eml-email_job_alert_digest_01-job_card-0-view_job-null-fk339c~ltic77ig~fl-null-null&eid=fk339c-ltic77ig-fl&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmM4Y2NlZDU0OTkxYWY4YjYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjg5NjFiOWJmZDI3ZjgwZWI1NGQ4NzFiODNlYWQyMWRjN2RlMDVjYTBlNDQ0NWVkNywxLDE%3D
+
+---------------------------------------------------------
+  
+See all jobs on LinkedIn:  https://www.linkedin.com/comm/jobs/search?geoId=104990346&f_TPR=a1709796594-&savedSearchId=1736368602&origin=JOB_ALERT_EMAIL&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BkyV%2BXmwCTPSFU8%2Bj3PqRMg%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=1TmyjDx722Sb81&trk=eml-email_job_alert_digest_01-job~alert-0-see~all~jobs~text&trkEmail=eml-email_job_alert_digest_01-job~alert-0-see~all~jobs~text-null-fk339c~ltic77ig~fl-null-null&eid=fk339c-ltic77ig-fl&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmM4Y2NlZDU0OTkxYWY4YjYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjg5NjFiOWJmZDI3ZjgwZWI1NGQ4NzFiODNlYWQyMWRjN2RlMDVjYTBlNDQ0NWVkNywxLDE%3D
+
+
+See jobs where you’re a top applicant
+https://www.linkedin.com/comm/premium/products/?utype=job&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BkyV%2BXmwCTPSFU8%2Bj3PqRMg%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=1TmyjDx722Sb81&trk=eml-email_job_alert_digest_01-job~alert-0-premium~upsell~text&trkEmail=eml-email_job_alert_digest_01-job~alert-0-premium~upsell~text-null-fk339c~ltic77ig~fl-null-null&eid=fk339c-ltic77ig-fl&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmM4Y2NlZDU0OTkxYWY4YjYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjg5NjFiOWJmZDI3ZjgwZWI1NGQ4NzFiODNlYWQyMWRjN2RlMDVjYTBlNDQ0NWVkNywxLDE%3D
+  
+
+----------------------------------------
+
+This email was intended for kanya Bhatt (Software developer | Student at Dharmsinh Desai University | machine learning enthusiast)
+Learn why we included this: https://www.linkedin.com/help/linkedin/answer/4788?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BkyV%2BXmwCTPSFU8%2Bj3PqRMg%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=1TmyjDx722Sb81&trk=eml-email_job_alert_digest_01-SecurityHelp-0-textfooterglimmer&trkEmail=eml-email_job_alert_digest_01-SecurityHelp-0-textfooterglimmer-null-fk339c~ltic77ig~fl-null-null&eid=fk339c-ltic77ig-fl&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmM4Y2NlZDU0OTkxYWY4YjYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjg5NjFiOWJmZDI3ZjgwZWI1NGQ4NzFiODNlYWQyMWRjN2RlMDVjYTBlNDQ0NWVkNywxLDE%3D
+You are receiving Job Alert emails.
+Manage your job alerts:  https://www.linkedin.com/comm/jobs/alerts?lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BkyV%2BXmwCTPSFU8%2Bj3PqRMg%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=1TmyjDx722Sb81&trk=eml-email_job_alert_digest_01-null-0-null&trkEmail=eml-email_job_alert_digest_01-null-0-null-null-fk339c~ltic77ig~fl-null-null&eid=fk339c-ltic77ig-fl&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmM4Y2NlZDU0OTkxYWY4YjYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjg5NjFiOWJmZDI3ZjgwZWI1NGQ4NzFiODNlYWQyMWRjN2RlMDVjYTBlNDQ0NWVkNywxLDE%3D 
+Unsubscribe: https://www.linkedin.com/job-alert-email-unsubscribe?savedSearchId=1736368602&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BkyV%2BXmwCTPSFU8%2Bj3PqRMg%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=1TmyjDx722Sb81&ek=email_job_alert_digest_01&e=fk339c-ltic77ig-fl&eid=fk339c-ltic77ig-fl&m=unsubscribe&ts=footerGlimmer&li=0&t=plh    ·  Help: https://www.linkedin.com/help/linkedin/answer/67?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BkyV%2BXmwCTPSFU8%2Bj3PqRMg%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=1TmyjDx722Sb81&trk=eml-email_job_alert_digest_01-help-0-textfooterglimmer&trkEmail=eml-email_job_alert_digest_01-help-0-textfooterglimmer-null-fk339c~ltic77ig~fl-null-null&eid=fk339c-ltic77ig-fl&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYmM4Y2NlZDU0OTkxYWY4YjYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZjg5NjFiOWJmZDI3ZjgwZWI1NGQ4NzFiODNlYWQyMWRjN2RlMDVjYTBlNDQ0NWVkNywxLDE%3D
+
+© 2024 LinkedIn Corporation, 1zwnj000 West Maude Avenue, Sunnyvale, CA 94085.
+LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.
+
+SHEILDIFYFrom: 
+Google <no-reply@accounts.google.com>Subject: 
+Security alertEmail: 
+[image: Google]
+Shieldify was granted access to your Google account
+
+
+bkkanya123@gmail.com
+
+If you did not grant access, you should check this activity and secure your
+account.
+Check activity You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2024 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
+SHEILDIFYFrom: 
+Unstop <noreply@unstop.com>Subject: 
+Don’t snooze this reminder | Quizzes and/or hackathons lined up today!Email: 
+Reminder for competitions Today's line-up for you: Unstop Talent Park - Tech - MCQ+Coding Assessment Unstop 8 Mar'24, 02:00 PM IST Follow us for informative & cute content: Unstop Coin Store Proud parent of our app: Queries? We're just one email away: support@unstop.com © 2024 Unstop . All rights reserved
+
+SHEILDIFYFrom: 
+Swiggy <no-reply@swiggy.in>Subject: 
+A special Women’s Day message! 💖Email: 
+Email Template --Click Here to unsubscribe from this newsletter.
+
+SHEILDIFYFrom: 
+ISP Team from Internshala <student@internshala.com>Subject: 
+😈 Kanya, why so 'Siri'ous? | Claim your iSurprise!Email: 
+Internshala Trainings Let's put a smile on that face Get a brand new ‘ iPhone 14 ’ along with other awesome rewards
+like certificates, Internshala merch and cash rewards upto INR 7 Lacs!
+
+
+ [URLTEXT]
+
+SHEILDIFYFrom: 
+Kotak Bank <retailproducts@mail.kotak.in>Subject: 
+Why spend more abroad?Email: 
+Kotak Swipe Kotak Forex Card and start saving 💳 Hey wanderer! Are you dreaming of an adventure? 
+
+ Say hello
+to hassle-free travel! Apply for Kotak Visa Forex Card and get
+irresistible deals at five enchanting destinations. 
+
+ Discover rewards: 
+
+ Experience Arabian Luxuries Lion City Roars With Amazing Offers Witness Asian Glory With Majestic Offers Spectacular Skyline. Spectacular Offers. Vibrant Vibes: Shop, Dine, and Explore! Offers Valid till 31st July 2024 For Kotak Visa Forex Card 
+
+ Terms and conditions apply. Cross-currency markup fee will not be
+applicable for the same currency transactions. A customer can load up
+to USD 10,000 or equivalent per transaction
+and up to USD 50,000 or equivalent per financial year, digitally
+through Net/Mobile Banking. The limit assigned for contactless
+transactions is capped at USD 100 per transaction. International
+limits for contactless transactions are governed by the regulations of
+that country. 
+
+ By clicking on the links above, you are hereby giving your consent to
+receive calls/communication for marketing purposes through
+Telephone/Mobile/SMS/Email for the above-mentioned product/offer and
+that such consents shall prevail over any current or subsequent
+registration of your number in the National ‘Do Not Call’
+Registry. Copyright & Disclaimer Privacy Policy Please do not reply to this mail as this is an automated mail
+service. 
+
+ In case you do not wish to receive any further marketing e-mails on
+your CRN ending with 4356, please click here to unsubscribe.
+
+SHEILDIFYFrom: 
+Rinil Parmar <invitations@linkedin.com>Subject: 
+kanya, please add me to your LinkedIn networkEmail: 
+kanya Bhatt, respond to Rinil’s invite now.
+        
+Hi kanya, I’d like to join your professional network
+
+Rinil Parmar
+Software Engineer intern @Promact | DDIT'24
+Vadodara
+74 connections in common
+See all connections in common:https://www.linkedin.com/comm/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ADoAADH8chwBOoP5Tq1VTEsABdQw_OcyOYAuOgE%22%5D&origin=SHARED_CONNECTIONS_CANNED_SEARCH&lipi=urn%3Ali%3Apage%3Aemail_email_m2m_invite_single_01%3BAw0MEbkZSH6GnEB1pcy14A%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=2Ifp-hT-aTRX81&trk=eml-email_m2m_invite_single_01-connections~in~common~text-0-view~connections&trkEmail=eml-email_m2m_invite_single_01-connections~in~common~text-0-view~connections-null-fk339c~lti4yuc1~7o-null-null&eid=fk339c-lti4yuc1-7o&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYjM4ZmM2ZDY0ODkxYTc4YzYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmEzNzVkYWIxYzY0NzliYWM2OTgwOGMyZGQzNWUxMWQ4NjEzNjdjOGZlZjAwMTNmMSwxLDE%3D
+
+Accept:https://www.linkedin.com/comm/mynetwork/invite-accept/invitationId/7171714185322590208/sharedKey/4VGHRyxo/?inviterVanityName=parmar-rinil-078a311b4&lipi=urn%3Ali%3Apage%3Aemail_email_m2m_invite_single_01%3BAw0MEbkZSH6GnEB1pcy14A%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=2Ifp-hT-aTRX81&trk=eml-email_m2m_invite_single_01-null-0-null&trkEmail=eml-email_m2m_invite_single_01-null-0-null-null-fk339c~lti4yuc1~7o-null-null&eid=fk339c-lti4yuc1-7o&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYjM4ZmM2ZDY0ODkxYTc4YzYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmEzNzVkYWIxYzY0NzliYWM2OTgwOGMyZGQzNWUxMWQ4NjEzNjdjOGZlZjAwMTNmMSwxLDE%3D
+View profile:https://in.linkedin.com/comm/in/parmar-rinil-078a311b4?lipi=urn%3Ali%3Apage%3Aemail_email_m2m_invite_single_01%3BAw0MEbkZSH6GnEB1pcy14A%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=2Ifp-hT-aTRX81&trk=eml-email_m2m_invite_single_01-null-0-null&trkEmail=eml-email_m2m_invite_single_01-null-0-null-null-fk339c~lti4yuc1~7o-null-null&eid=fk339c-lti4yuc1-7o&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYjM4ZmM2ZDY0ODkxYTc4YzYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmEzNzVkYWIxYzY0NzliYWM2OTgwOGMyZGQzNWUxMWQ4NjEzNjdjOGZlZjAwMTNmMSwxLDE%3D
+      
+
+----------------------------------------
+
+This email was intended for kanya Bhatt (Software developer | Student at Dharmsinh Desai University | machine learning enthusiast)
+Learn why we included this: https://www.linkedin.com/help/linkedin/answer/4788?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_m2m_invite_single_01%3BAw0MEbkZSH6GnEB1pcy14A%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=2Ifp-hT-aTRX81&trk=eml-email_m2m_invite_single_01-SecurityHelp-0-textfooterglimmer&trkEmail=eml-email_m2m_invite_single_01-SecurityHelp-0-textfooterglimmer-null-fk339c~lti4yuc1~7o-null-null&eid=fk339c-lti4yuc1-7o&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYjM4ZmM2ZDY0ODkxYTc4YzYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmEzNzVkYWIxYzY0NzliYWM2OTgwOGMyZGQzNWUxMWQ4NjEzNjdjOGZlZjAwMTNmMSwxLDE%3D
+You are receiving LinkedIn invitations emails.
+
+Unsubscribe: https://www.linkedin.com/comm/psettings/email-unsubscribe?lipi=urn%3Ali%3Apage%3Aemail_email_m2m_invite_single_01%3BAw0MEbkZSH6GnEB1pcy14A%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=2Ifp-hT-aTRX81&trk=eml-email_m2m_invite_single_01-unsubscribe-0-textfooterglimmer&trkEmail=eml-email_m2m_invite_single_01-unsubscribe-0-textfooterglimmer-null-fk339c~lti4yuc1~7o-null-null&eid=fk339c-lti4yuc1-7o&loid=AQHf_7HgsSWXVgAAAY4cPu1riycOLrDkcqUGjrz8A0gzqfD0DMBWjGtCBFAfeHV6ZKbzNrZ93QuVZaSCgYmpLCmedHUVew
+Help: https://www.linkedin.com/help/linkedin/answer/67?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_m2m_invite_single_01%3BAw0MEbkZSH6GnEB1pcy14A%3D%3D&midToken=AQFhQuq-1R2zJg&midSig=2Ifp-hT-aTRX81&trk=eml-email_m2m_invite_single_01-help-0-textfooterglimmer&trkEmail=eml-email_m2m_invite_single_01-help-0-textfooterglimmer-null-fk339c~lti4yuc1~7o-null-null&eid=fk339c-lti4yuc1-7o&otpToken=MWIwMTFlZTcxMDI3YzhjMWI2MjQwNGVkNDYxN2VmYjM4ZmM2ZDY0ODkxYTc4YzYxNzljNTA3NmQ0OTVjNWNmMWYyZDdkZmEzNzVkYWIxYzY0NzliYWM2OTgwOGMyZGQzNWUxMWQ4NjEzNjdjOGZlZjAwMTNmMSwxLDE%3D
+
+© 2024 LinkedIn Corporation, 1zwnj000 West Maude Avenue, Sunnyvale, CA 94085.
+LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.
+
+SHEILDIFYFrom: 
+Kotak Bank <retailproducts@mail.kotak.in>Subject: 
+Your dream university abroad awaits 🌏🎓Email: 
+Kotak Choose Kotak Remit and HDFC Credila to make it happen Make the most of education opportunities
+abroad with interest rates starting at only 10.5%* p.a. and a
+processing charge of 1%^. 
+
+ HDFC Credila has funded over 1,57,000 Indian students across 59
+countries, 4,100+ institutes, and 3,000+ courses. 
+
+ At Kotak, we help you fulfil your dreams with Kotak Remit and HDFC
+Credila. 
+
+ Exclusive Benefits 
+
+ Up to 100% finance, 
+ covering tuition & 
+ ancillary costs 
+
+ Lower TCS at 0.5% on 
+ overseas remittance 
+
+ Attractive interest 
+ rates 
+
+ Unlimited tax beneﬁt 
+ under IT Section 80E 
+
+ Unsecured loans 
+ up to INR 75 Lakh 
+
+ Quick & hassle-free 
+ process Terms and Conditions apply. 
+ *Interest rate valid for secured loans only. Final interest rate and
+processing charges are dependent upon the country and course of study.
+
+ ^Processing charges oﬀer is valid for loans sanctioned and
+processing charges paid
+till 30th April 2024. GST will be applicable separately. 
+ The education loan facility provided by HDFC Credila ("The Company")
+will be at the sole discretion of the Company and within the Company's
+prescribed credit and underwriting norms/guidelines prevailing at the
+time of processing and disbursing the education loan. The interest
+rate applicable on the loan will be as per the college and campus.
+Kotak Mahindra Bank Ltd. shall have no responsibility or liability of
+any kind with respect to Education Loan and other Education
+Loan linked facilities offered by HDFC Credila. 
+ By clicking on the links above, you are hereby giving your consent to
+receive calls/communication for marketing purposes through
+Telephone/Mobile/SMS/Email for the above mentioned product/oﬀer and
+that such consents shall prevail over any current or subsequent
+registration of your number in the National ‘Do Not Call’
+Registry. Copyright & Disclaimer Privacy Policy Please do not reply to this mail as this is an automated mail
+service. 
+
+ In case you do not wish to receive any further marketing e-mails on
+your CRN
+ending with 4356, please click here to unsubscribe.
+
+SHEILDIFYFrom: 
+Internshala <student@updates.internshala.com>Subject: 
+Student, More Interview Calls are Waiting for You! 🤝Email: 
+Our career advice in action! ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌              Internshala (Scholiverse Educare Pvt. Ltd.)  901 A/B, Iris Tech Park, Sohna Road, Sector - 48, Gurugram  Not keen on career commitments? Unsubscribe here to break up with us.
+

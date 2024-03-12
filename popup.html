@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Shieldify - Gmail API Extension</title>
+  <script src="popup.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;500&display=swap" rel="stylesheet">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/bootstrap-icons.css" rel="stylesheet">
+  <link href="css/templatemo-barber-shop.css" rel="stylesheet">
+  
+  <style>
+    #authenticate{
+      margin-top: 20px;
+      margin-left: 150px;
+    }
+    #homePageLogin {
+      display: flex; /* Use flexbox to align items in a row */
+      align-items: center; /* Align items vertically */
+      cursor: url('./images/cursor4.png'), auto !important;
+    }
+    button {
+      cursor: url('./images/cursor4.png'), auto !important;
+    }
+    #video-container {
+      position: absolute;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      
+      
+    }
+    #myVideo2 {
+      padding-left: 200px;
+      width: 670px;
+      height: 370px;
+    }
+    .container-fluid {
+      position: relative; /* Make it relative to be able to position its children */
+      z-index: 1; /* Ensure the buttons are above the video */
+    }
+  </style>
+</head>
+
+<body id="body" style="width: 800px; height: 500px;">
+  <video id="myVideo" width="800px" height="500px" autoplay muted>
+    <source src="./images/INTROVID.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  
+  <div id="homePageLogin" style="height: 500px;">
+    <img src="./images/FullLogo.png" height="45px" style="margin-top: 10px; margin-left: 10px;"/>
+    
+    <div id="video-container">
+      <video id="myVideo2" autoplay loop>
+        <source src="./images/homePageVid2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+    <div class="container-fluid">
+      
+      <div class="box background-tint">
+        <div class="loader-container">
+          <img id="loaderGif" class="loader hidden" src="./images/loaderGoogle.gif" alt="Loading..." />
+          <div class="gradient-overlay"></div> <!-- Gradient overlay -->
+        </div>
+      </div>
+   
+      <div id="content">
+        <div class="container" style="padding-top: 70px;">
+          <h3 style="font-family: YourCustomFont;">TimeFrame Of Mails</h3>
+          <div class="counter" style="margin-left: 63px;">
+            <button id="decrement-btn">-</button>
+            <div id="counter-value">1</div>
+            <button id="increment-btn">+</button>
+          </div>
+          <div class="button-wrapper" data-tippy-content="Reset">
+            <button id="reset" class="button-55" role="button">Reset</button>
+          </div>
+        </div>
+        <!-- <h3 style="font-family: YourCustomFont;" id="authenticate"></h3> -->
+      </div>
+      <div  class="button-wrapper" style="padding-left: 38px; padding-top: 30px;" data-tippy-content="Reset">
+        <button id="yourButton" class="button-55" role="button">Fetch!</button>
+      </div>
+      <div style=" padding-left: 100px; padding-top: 10px;">
+        <pre style="font-family: YourCustomFont;"id="fileData"></pre>
+      </div>
+      <div  style="padding-left: 20px; "class="button-wrapper" data-tippy-content="Reset">
+        <button id="login_again" class="button-55" role="button">Login Again?</button>
+      </div>
+      
+    </div>
+  </div>
+</body>
+
+</html>
